@@ -17,7 +17,10 @@ function hero() {
                         <p className="text-base md:text-lg px-5 text-dark-text py-5 md:px-24 lg:pl-0 lg:pr-20 max-w-2xl text-gray-400 mt-5">
                             It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters.
                         </p>
-
+                        <div className="mt-4">
+                        <a className="text-pink py-2 px-10 rounded-full border-gray-stroke border-2 cursor-pointer">
+                        Explore
+                        </a></div>
                     </div>
 
 
