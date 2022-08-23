@@ -32,48 +32,48 @@ function subHero() {
 
 
                 {/* mobile */}
-                
+
                 <div className="sm:hidden">
-                <div className="flex flex-col mt-0 sm:hidden items-center justify-center pb-5">
-                    <img
-                        className="w-20 pt-0"
-                        src={
-                            "https://res.cloudinary.com/dckwf6med/image/upload/v1661218068/Web%20Dev%20Projects/lucas-pb_qemirz.png"
-                        }
-                        alt="Hero Image"
-                    />
-                    <div className="flex flex-col pt-2 pl-3">
-                        <h3 className="text-xl text-center">Lucas Jolibois</h3>
-                        <p className="text-xl font-light text-gray-subtext text-center">CEO, owner</p>
-                        <p className=" text-lg pt-2 text-center text-gray-300 font-light">
-                        Our mission is to help you build <br />
-                        muscles and get shreded for free
-                    </p>
+                    <div className="flex flex-col mt-0 sm:hidden items-center justify-center pb-5">
+                        <img
+                            className="w-20 pt-0"
+                            src={
+                                "https://res.cloudinary.com/dckwf6med/image/upload/v1661218068/Web%20Dev%20Projects/lucas-pb_qemirz.png"
+                            }
+                            alt="Hero Image"
+                        />
+                        <div className="flex flex-col pt-2 pl-3">
+                            <h3 className="text-xl text-center">Lucas Jolibois</h3>
+                            <p className="text-xl font-light text-gray-subtext text-center">CEO, owner</p>
+                            <p className=" text-lg pt-2 text-center text-gray-300 font-light">
+                                Our mission is to help you build <br />
+                                muscles and get shreded for free
+                            </p>
+                        </div>
                     </div>
-                </div>
 
-                <div className="border-t-2 border-white sm:hiddden">
-                <div className="flex never:flex-col flex-row sm:hidden items-center justify-center pt-5">
-                        <div className="flex flex-col">
-                    <h3 className="text-5xl font-extrabold text-center pl-1  ">
-                        &gt;40
-                    </h3>
-                    <p className=" font-light pl-3 text-gray-subtext text-center">over 40 total <br />
-                        clients</p></div>
-                        <div className="flex flex-col ml-7">
-                    <h3 className=" text-5xl font-extrabold text-center pl-1 ">
-                        &gt;7
-                    </h3>
-                    <p className="font-light pl-3 text-gray-subtext text-center">over 7 year <br />
-                        of experience</p></div>
-                        <div className="flex flex-col ml-7">
-                    <h3 className=" text-5xl font-extrabold text-center pl-1 ">
-                        7K
-                    </h3>
-                    <p className="font-light pl-3 text-gray-subtext text-center">Sign-up limit <br />
-                        at 7k users</p></div>
+                    <div className="border-t-2 border-white sm:hiddden">
+                        <div className="flex never:flex-col flex-row sm:hidden items-center justify-center pt-5">
+                            <div className="flex flex-col">
+                                <h3 className="text-5xl font-extrabold text-center pl-1  ">
+                                    &gt;40
+                                </h3>
+                                <p className=" font-light pl-3 text-gray-subtext text-center">over 40 total <br />
+                                    clients</p></div>
+                            <div className="flex flex-col ml-7">
+                                <h3 className=" text-5xl font-extrabold text-center pl-1 ">
+                                    &gt;7
+                                </h3>
+                                <p className="font-light pl-3 text-gray-subtext text-center">over 7 year <br />
+                                    of experience</p></div>
+                            <div className="flex flex-col ml-7">
+                                <h3 className=" text-5xl font-extrabold text-center pl-1 ">
+                                    7K
+                                </h3>
+                                <p className="font-light pl-3 text-gray-subtext text-center">Sign-up limit <br />
+                                    at 7k users</p></div>
 
-                </div></div></div>
+                        </div></div></div>
                 {/* mobile stop */}
 
 
