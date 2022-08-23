@@ -6,6 +6,7 @@ import Hero from '../components/home/hero';
 import SubHero from '../components/home/subHero';
 import AchieveGoals from '../components/home/achieveGoals';
 import TextSlider from '../components/home/textSlider';
+import WhyUs from '../components/home/whyUs';
 
 export default function Home() {
   const { user, error, isLoading } = useUser();
@@ -39,6 +40,7 @@ export default function Home() {
       <SubHero/>
       <AchieveGoals/>
       <TextSlider/>
+      <WhyUs/>
        
     </div>
   )
