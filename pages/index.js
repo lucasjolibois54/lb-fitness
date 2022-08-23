@@ -5,6 +5,7 @@ import { useUser } from '@auth0/nextjs-auth0';
 import Hero from '../components/home/hero';
 import SubHero from '../components/home/subHero';
 import AchieveGoals from '../components/home/achieveGoals';
+import TextSlider from '../components/home/textSlider';
 
 export default function Home() {
   const { user, error, isLoading } = useUser();
@@ -37,6 +38,7 @@ export default function Home() {
       <Hero/>
       <SubHero/>
       <AchieveGoals/>
+      <TextSlider/>
        
     </div>
   )
