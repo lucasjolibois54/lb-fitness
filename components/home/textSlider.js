@@ -1,7 +1,13 @@
 
 function textSlider() {
   return (
-    <div>textSlider</div>
+    <div>
+        <div className="mt-20">
+            
+            <h2 className="relative !mx-auto">textSlider</h2>
+
+        </div>
+        </div>
   )
 }
 
