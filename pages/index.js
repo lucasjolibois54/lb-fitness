@@ -29,7 +29,7 @@ export default function Home() {
       </Head>
 
       
-      <a href="/api/auth/login">Login</a>
+      <a className='float-right mx-5 my-10 text-pink py-2 px-10 rounded-full border-gray-stroke border-2 cursor-pointer' href="/api/auth/login">Login</a>
 
       <Hero/>
       <SubHero/>
