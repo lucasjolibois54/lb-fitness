@@ -3,6 +3,7 @@ import Image from 'next/image'
 import styles from '../styles/Home.module.css'
 import { useUser } from '@auth0/nextjs-auth0';
 import Hero from '../components/home/hero';
+import SubHero from '../components/home/subHero';
 
 export default function Home() {
   const { user, error, isLoading } = useUser();
@@ -31,6 +32,7 @@ export default function Home() {
       <a href="/api/auth/login">Login</a>
 
       <Hero/>
+      <SubHero/>
        
     </div>
   )
