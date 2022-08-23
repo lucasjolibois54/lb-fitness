@@ -13,7 +13,7 @@ function hero() {
                     {/* <!-- Grid cell #1 --> */}
                     <div class=" py-3 px-6 md-lg:ml-5 xl:ml-20 md-lg:mt-10 xl:mt-20 rounded">
 
-                        <h1 className="text-white mt-7 sm:mt-0 text-8xl sm:text-6xl md-lg:text-7xl lg:text-8xl font-bold stroke-title">FITNESS <span className="stroke-removal"><br />TRAINING </span><br />PLAN</h1>
+                        <h1 className="text-white mt-7 sm:mt-0 text-6xl xsm:text-7xl sm:text-6xl md-lg:text-7xl lg:text-8xl font-bold stroke-title">FITNESS <span className="stroke-removal"><br />TRAINING </span><br />PLAN</h1>
                         <p className="text-base md:text-lg text-dark-text py-5 lg:px-24 lg:pl-0 lg:pr-20 max-w-2xl text-gray-400 mt-5">
                             It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters.
                         </p>
