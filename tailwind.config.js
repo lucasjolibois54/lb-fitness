@@ -6,17 +6,20 @@ module.exports = {
   ],
   theme: {
     screens: {
+      'xsm': '375px',
+      // => @media (min-width: 375px) { ... }
+
       'sm': '640px',
       // => @media (min-width: 640px) { ... }
 
       'hero-sm-md': '729px',
-      // => @media (min-width: 640px) { ... }
+      // => @media (min-width: 729px) { ... }
 
       'md': '768px',
       // => @media (min-width: 768px) { ... }
 
       'md-lg': '878px',
-      // => @media (min-width: 768px) { ... }
+      // => @media (min-width: 878px) { ... }
 
       'lg': '1024px',
       // => @media (min-width: 1024px) { ... }
