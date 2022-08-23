@@ -38,16 +38,16 @@ export default function Home() {
       <a className='float-right mx-7 -mb-7 mt-12 text-pink py-2 px-10 rounded-full border-gray-stroke border-2 cursor-pointer' href="/api/auth/login">Login</a>
       </div> */}
 
-      <HomeHeader/>
-      <Hero/>
-      <SubHero/>
-      <AchieveGoals/>
-      <TextSlider/>
-      <WhyUs/>
-      <AboutUs/>
-       
+      <HomeHeader />
+      <Hero />
+      <SubHero />
+      <AchieveGoals />
+      <TextSlider />
+      <WhyUs />
+      <AboutUs />
+
     </div>
   )
 }
 
-{/* <div className={styles.container}> */}
+{/* <div className={styles.container}> */ }
