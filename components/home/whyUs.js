@@ -2,8 +2,8 @@
 function whyUs() {
     return (
 
-        <div className="flex flex-col-reverse md:flex-row">
-            <div className="mx-auto float-right">
+        <div className="my-auto mx-auto flex flex-col-reverse md:flex-row mt-10 mb-0 max-w-7xl  md:p-16">
+            <div className="mx-auto float-righ">
                 <img className="w-11/12" src="https://res.cloudinary.com/dckwf6med/image/upload/v1661290332/Web%20Dev%20Projects/Group_74_wolzcr.png" />
             </div>
             <div className="text-center md:text-left mx-10 md:mx-0 mb-10 md:mb-0 flex flex-col justify-center">
