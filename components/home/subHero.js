@@ -3,7 +3,7 @@
 function subHero() {
     return (
         <div className="flex items-center justify-center">
-            <div className="mb-20 sm:mt-16 max-w-7xl mx-auto">
+            <div className="mb-20 lg:mb-0 sm:mt-16 max-w-7xl mx-auto">
                 <div className="sm:flex never:flex-col flex-row hidden">
 
                     <p className=" text-xl lg:text-lg xl:text-xl font-light border-r-2 border-white lg:pr-10 xl:pr-20 hidden lg:block">
