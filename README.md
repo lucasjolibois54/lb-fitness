@@ -5,7 +5,7 @@
 <br />
 <div align="center">
   <a href="planner-x.netlify.app">
-    <img src="https://res.cloudinary.com/dckwf6med/image/upload/v1661221213/Web%20Dev%20Projects/Sk%C3%A6rmbillede_2022-08-23_kl._04.20.05_k2iwen.png" alt="Logo" width="auto" height="100">
+    <img src="https://res.cloudinary.com/dckwf6med/image/upload/v1661260690/Web%20Dev%20Projects/image_40_aq6zob.png" alt="Logo" width="auto" height="150">
   </a>
 
   <h3 align="center">LB Fitness readme</h3>
