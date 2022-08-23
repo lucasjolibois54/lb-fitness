@@ -2,39 +2,49 @@
 
 function subHero() {
     return (
-        <div className="mb-20 mt-20 max-w-7xl mx-auto">
-            <div className="flex">
+        <div className="flex items-center justify-center">
+        <div className="mb-20 sm:mt-16 max-w-7xl mx-auto">
+            <div className="flex never:flex-col flex-row">
 
 
-                <p className=" text-lg border-r-2 border-white pr-20">
+                <p className=" text-xl lg:text-lg xl:text-xl font-light border-r-2 border-white lg:pr-10 xl:pr-20 hidden lg:block">
                     Our mission is to help you build <br />
                     muscles and get shreded for free
                 </p>
-                <h3 className="text-6xl font-extrabold pl-20">
+                <h3 className="text-4xl sm:text-5xl hero-sm-md:text-6xl font-extrabold pl-20 md:pl-0 lg:pl-10 xl:pl-20 ">
                     &gt;40
                 </h3>
-                <p className="text-xl pl-3 text-gray-subtext">over 40 total <br />
+                <p className="hero-sm-md:text-xl lg:text-lg xl:text-xl font-light pl-3 text-gray-subtext">over 40 total <br />
                     clients</p>
 
-                <h3 className="text-6xl font-extrabold pl-20">
+                <h3 className="text-4xl sm:text-5xl hero-sm-md:text-6xl font-extrabold pl-7 sm:pl-10 md-lg:pl-20 lg:pl-10 xl:pl-20">
                     &gt;7
                 </h3>
-                <p className="text-xl pl-3 text-gray-subtext">over 7 year <br />
+                <p className="hero-sm-md:text-xl lg:text-lg xl:text-xl font-light pl-3 text-gray-subtext">over 7 year <br />
                     of experience</p>
+                    
+                    <h3 className="text-4xl sm:text-5xl hero-sm-md:text-6xl font-extrabold pl-7 sm:pl-10 md-lg:pl-20 lg:pl-10 xl:pl-20">
+                    7K
+                </h3>
+                <p className="text-sm hero-sm-md:text-xl lg:text-lg xl:text-xl font-light pl-3 text-gray-subtext">Sign-up limit <br />
+                    at 7k users</p>
             </div>
 
-            <div className="flex">
+            <div className="lg:flex mt-0 hidden">
             <img
-                className="w-1/12 pt-5"
+                className="w-20 pt-5"
                 src={
                     "https://res.cloudinary.com/dckwf6med/image/upload/v1661218068/Web%20Dev%20Projects/lucas-pb_qemirz.png"
                 }
                 alt="Hero Image"
             />
-            <h3>Lucas Jolibois</h3>
-            <p><br/>CEO, owner</p>
+            <div className="flex flex-col pt-7 pl-3">
+            <h3 className="text-xl">Lucas Jolibois</h3>
+            <p className="text-xl font-light text-gray-subtext">CEO, owner</p>
+            </div>
             </div>
 
+        </div>
         </div>
     )
 }
