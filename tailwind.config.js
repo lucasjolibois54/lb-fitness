@@ -36,6 +36,8 @@ module.exports = {
         'pink': '#C03963',
         'gray-stroke': '#7E7D7D',
         'gray-subtext': '#8A8A8A',
+        'off-white': '#FCFCFC',
+        'gradient-off-orange': '#FCD9C4',
       }
     },
   },
