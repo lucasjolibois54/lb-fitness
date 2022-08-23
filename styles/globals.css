@@ -15,6 +15,7 @@ body {
   font-family: "Poppins", sans-serif;
   color: #fff;
   background: #0D0D0D;
+  overflow-x: hidden;
 }
 
 /* a {
