@@ -14,7 +14,7 @@ body {
   margin: 0;
   font-family: "Poppins", sans-serif;
   color: #fff;
-  background: #0D0D0D;
+  background: #0d0d0d;
   overflow-x: hidden;
 }
 
@@ -27,33 +27,36 @@ body {
   box-sizing: border-box;
 }
 
-.stroke-title{
-  -webkit-text-fill-color: rgba(0, 0, 0, 0); /* Will override color (regardless of order) */
+.stroke-title {
+  -webkit-text-fill-color: rgba(
+    0,
+    0,
+    0,
+    0
+  ); /* Will override color (regardless of order) */
   -webkit-text-stroke-width: 2px;
   -webkit-text-stroke-color: rgb(255, 255, 255);
 }
 
-.stroke-removal{
-  -webkit-text-fill-color: rgb(255, 255, 255); /* Will override color (regardless of order) */
+.stroke-removal {
+  -webkit-text-fill-color: rgb(
+    255,
+    255,
+    255
+  ); /* Will override color (regardless of order) */
   -webkit-text-stroke-width: 2px;
   -webkit-text-stroke-color: rgb(255, 255, 255);
 }
 
-
-
-.zzz{
+.zzz {
   position: relative;
   z-index: 50;
   height: 80px;
 }
 
-
-.bg {  
+.bg {
   margin-top: -80px;
 }
-
-
-
 
 /* 
 @media (prefers-color-scheme: dark) {
