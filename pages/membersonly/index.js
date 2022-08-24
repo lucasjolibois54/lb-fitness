@@ -1,9 +1,13 @@
 import React from 'react'
 import { withPageAuthRequired } from '@auth0/nextjs-auth0';
+import HeaderAfterLogin from '../../components/main/headerAfterLogin';
 
 function members() {
   return (
-    <div>MEMBERS ONLY</div>
+    <div>
+        <HeaderAfterLogin/>
+        
+        MEMBERS ONLY</div>
   )
 }
 
