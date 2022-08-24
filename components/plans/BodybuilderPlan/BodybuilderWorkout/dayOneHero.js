@@ -7,7 +7,7 @@ function dayOneHero() {
               class="lg:-mt-36 lg:-ml-0 !leading-tight absolute ml-3 sm:ml-10 text-5xl xsm:text-4
               5xl sm:text-4xl md:lg:text-6xl lg:!text-8xl stroke-removal font-bold text-white top-2/3 md:top-1/2 lg:bottom-0 lg:mr-10 sm:right-1/3 sm:translate-x-2/3 sm:translate-y-1/3"
             >
-              <span className="stroke-title">PUSH DAY</span>
+              <span className="stroke-title">PULL DAY</span>
               <br /> DAY 1 OF <br />{" "}
               <span className="stroke-title">THE PLAN</span>
             </h2>
