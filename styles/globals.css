@@ -58,6 +58,20 @@ body {
   margin-top: -80px;
 }
 
+.center-this{
+  display: flex;
+  justify-content: center;
+}
+
+.planimg{
+  position: relative;
+  text-align: center;
+}
+
+.plantitle{
+  position: relative;
+  top: -50px;
+}
 /* 
 @media (prefers-color-scheme: dark) {
   html {
