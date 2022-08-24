@@ -13,7 +13,7 @@ function bodybuilderDays(props) {
         </p>
         <div className="mt-6 text-center sm:text-left">
                         <a href={props.linking} className="text-pink py-2 px-10 rounded-full border-gray-stroke border-2 cursor-pointer">
-                            Explore
+                            {props.buttonText}
                         </a></div>
         </div>
         <img className='sm:w-3/6 mt-6 sm:mt-0' src={props.image}/>
