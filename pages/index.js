@@ -10,6 +10,7 @@ import WhyUs from '../components/home/whyUs';
 import AboutUs from '../components/home/aboutUs';
 import HomeHeader from '../components/main/homeHeader';
 import Footer from '../components/main/footer';
+import HeaderAfterLogin from '../components/main/headerAfterLogin';
 
 export default function Home() {
   const { user, error, isLoading } = useUser();
@@ -20,8 +21,10 @@ export default function Home() {
 
   if (user) {
     return (
-      <div>
-        Welcome {user.name}! <a href="/api/auth/logout">Logout</a>
+      <div className='h-screen'>
+        <HeaderAfterLogin/>
+        {/* <div>
+        Welcome {user.name}! <a href="/api/auth/logout">Logout</a></div> */}
       </div>
     );
   }
