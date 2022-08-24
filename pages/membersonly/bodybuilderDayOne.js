@@ -6,7 +6,7 @@ import DayOneHero from "../../components/plans/BodybuilderPlan/BodybuilderWorkou
 import DayOneWorkout from "../../components/plans/BodybuilderPlan/BodybuilderWorkout/dayOneWorkout";
 import Footer from "../../components/main/footer";
 
-function members() {
+function bodyBuilderDayOne() {
   return (
     <div>
       <HeaderAfterLogin />
@@ -87,6 +87,6 @@ function members() {
   );
 }
 
-export default members;
+export default bodyBuilderDayOne;
 
 export const getServerSideProps = withPageAuthRequired();
