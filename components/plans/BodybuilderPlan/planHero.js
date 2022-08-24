@@ -1,7 +1,7 @@
 function planHero() {
   return (
     <>
-      <div className="flex justify-center sm:h-screen">
+      <div className="sm:flex justify-center sm:h-screen">
         <div class="relative max-w-8xl">
           <h2
             class="lg:-mt-36 lg:-ml-0 !leading-tight absolute ml-3 sm:ml-10 text-5xl xsm:text-4
