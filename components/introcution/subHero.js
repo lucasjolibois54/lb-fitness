@@ -17,7 +17,7 @@ function subHero() {
         letters.
       </p>
       <div className="mt-7 text-center">
-        <a className="text-pink py-2 px-10 rounded-full border-gray-stroke border-2 cursor-pointer">
+        <a className="text-pink py-2 px-10 rounded-full border-gray-stroke border-2 cursor-pointer" href="/">
         Skip introduction
         </a>
       </div>
