@@ -9,6 +9,7 @@ import TextSlider from '../components/home/textSlider';
 import WhyUs from '../components/home/whyUs';
 import AboutUs from '../components/home/aboutUs';
 import HomeHeader from '../components/main/homeHeader';
+import Footer from '../components/main/footer';
 
 export default function Home() {
   const { user, error, isLoading } = useUser();
@@ -45,6 +46,7 @@ export default function Home() {
       <TextSlider />
       <WhyUs />
       <AboutUs />
+      <Footer/>
 
     </div>
   )
