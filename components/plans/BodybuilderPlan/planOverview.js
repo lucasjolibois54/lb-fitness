@@ -5,11 +5,11 @@ function planOverview() {
     <>
       <div className="mt-20 mb-20  max-w-7xl  mx-auto flex flex-col sm:flex-row items-center justify-center sm:space-x-14">
         <div className="w-4/6 sm:w-3/12 space-y-4">
-          <img
+         <a href="/membersonly/bodybuilderPlan"><img
             className="planimg"
             src="https://res.cloudinary.com/dckwf6med/image/upload/v1661359671/Web%20Dev%20Projects/Group_78_1_dlxnfg.webp"
           />
-          <p className="plantitle text-center">Ultimate bodybuilding plan</p>
+          <p className="plantitle text-center">Ultimate bodybuilding plan</p></a>
         </div>
 
         <div className="w-4/6 sm:w-3/12 space-y-4">
