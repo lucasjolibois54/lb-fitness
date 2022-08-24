@@ -12,7 +12,7 @@ function footer() {
         <p>TW</p><p>IG</p><p>YT</p></div></div>
         <div className='w-2/12 space-y-4'>
 
-            <p className='mt-6 text-gray-200 font-light ml-3'>
+            <p className='mt-6 text-gray-200 hover:text-pink cursor-pointer font-light ml-3'>
                 Home
             </p>
             <p className=' text-gray-200 font-light ml-3'>
