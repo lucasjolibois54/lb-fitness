@@ -11,6 +11,7 @@ import AboutUs from '../components/home/aboutUs';
 import HomeHeader from '../components/main/homeHeader';
 import Footer from '../components/main/footer';
 import HeaderAfterLogin from '../components/main/headerAfterLogin';
+import PlanHero from '../components/plans/BodybuilderPlan/planHero';
 
 export default function Home() {
   const { user, error, isLoading } = useUser();
@@ -23,6 +24,8 @@ export default function Home() {
     return (
       <div className='h-screen'>
         <HeaderAfterLogin/>
+        <PlanHero/>
+        <WhyUs/>
         {/* <div>
         Welcome {user.name}! <a href="/api/auth/logout">Logout</a></div> */}
       </div>
