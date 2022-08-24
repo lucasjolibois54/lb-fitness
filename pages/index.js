@@ -12,6 +12,7 @@ import HomeHeader from '../components/main/homeHeader';
 import Footer from '../components/main/footer';
 import HeaderAfterLogin from '../components/main/headerAfterLogin';
 import PlanHero from '../components/plans/BodybuilderPlan/planHero';
+import PlanOverview from '../components/plans/BodybuilderPlan/planOverview';
 
 export default function Home() {
   const { user, error, isLoading } = useUser();
@@ -25,7 +26,8 @@ export default function Home() {
       <div className='h-screen'>
         <HeaderAfterLogin/>
         <PlanHero/>
-        <WhyUs/>
+        <PlanOverview/>
+        <Footer/>
         {/* <div>
         Welcome {user.name}! <a href="/api/auth/logout">Logout</a></div> */}
       </div>
