@@ -28,7 +28,7 @@ body {
 }
 
 .stroke-title{
-  -webkit-text-fill-color: rgb(0, 0, 0); /* Will override color (regardless of order) */
+  -webkit-text-fill-color: rgba(0, 0, 0, 0); /* Will override color (regardless of order) */
   -webkit-text-stroke-width: 2px;
   -webkit-text-stroke-color: rgb(255, 255, 255);
 }
@@ -38,6 +38,21 @@ body {
   -webkit-text-stroke-width: 2px;
   -webkit-text-stroke-color: rgb(255, 255, 255);
 }
+
+
+
+.zzz{
+  position: relative;
+  z-index: 50;
+  height: 80px;
+}
+
+
+.bg {  
+  margin-top: -80px;
+}
+
+
 
 
 /* 
