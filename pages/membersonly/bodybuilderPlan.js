@@ -6,7 +6,7 @@ import Hero from "../../components/plans/BodybuilderPlan/BodybuilderWorkout/hero
 import BodybuilderDays from "../../components/plans/BodybuilderPlan/BodybuilderWorkout/bodybuilderDays";
 import Footer from "../../components/main/footer";
 
-function members() {
+function bodybuilderPlan() {
   return (
     <div>
       <HeaderAfterLogin />
@@ -22,14 +22,14 @@ function members() {
         name="Day 2"
         description="It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters."
         image="https://res.cloudinary.com/dckwf6med/image/upload/v1661371893/Web%20Dev%20Projects/Rectangle_734_nch8oo.webp"
-        linking="/"
+        linking="/membersonly/bodybuilderDayTwo"
         buttonText="Get started"
       />
             <BodybuilderDays
         name="Day 3"
         description="It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters."
         image="https://res.cloudinary.com/dckwf6med/image/upload/v1661371892/Web%20Dev%20Projects/Rectangle_736_flriuh.webp"
-        linking="/"
+        linking="/membersonly/bodybuilderDayThree"
         buttonText="Get started"
       />
             <BodybuilderDays
@@ -44,6 +44,6 @@ function members() {
   );
 }
 
-export default members;
+export default bodybuilderPlan;
 
 export const getServerSideProps = withPageAuthRequired();
