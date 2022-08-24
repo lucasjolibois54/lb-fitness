@@ -30,7 +30,7 @@ function planOverview() {
       </div>
 
         {/* more coming soon */}
-      <h2 className="text-white text-center mt-10 pt-10 sm:mt-0 text-6xl xsm:text-7xl sm:text-6xl md-lg:text-7xl lg:text-8xl font-bold stroke-removal">
+      <h2 className="pb-10 text-white text-center mt-10 pt-10 sm:mt-0 text-6xl xsm:text-7xl sm:text-6xl md-lg:text-7xl lg:text-8xl font-bold stroke-removal">
       MORE COMING{" "}
         <span className="stroke-title">
           <br />
