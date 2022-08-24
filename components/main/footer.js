@@ -13,7 +13,7 @@ function footer() {
         </p>
         <div className="flex space-x-6 mt-7 mb-8 md:mb-0">
           <img className="w-1/12" src="https://res.cloudinary.com/dckwf6med/image/upload/v1661361428/Work-%20GS/svg/Instagram_-_Negative_isdu92.svg"/>
-          <img className="w-1/12" src="https://res.cloudinary.com/dckwf6med/image/upload/v1661361428/Work-%20GS/svg/Github_-_Negative_eecs8r.svg"/>
+          <a target="blank" href="https://github.com/lucasjolibois54/lb-fitness" ><img className="w-7/12" src="https://res.cloudinary.com/dckwf6med/image/upload/v1661361428/Work-%20GS/svg/Github_-_Negative_eecs8r.svg"/></a>
           {/* <p>YT</p> */}
         </div>
       </div>
