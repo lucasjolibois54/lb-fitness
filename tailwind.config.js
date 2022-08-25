@@ -44,6 +44,7 @@ module.exports = {
         'gray-subtext': '#8A8A8A',
         'off-white': '#FCFCFC',
         'gradient-off-orange': '#FCD9C4',
+        'footer-hover': '#D26385',
       }
     },
   },
