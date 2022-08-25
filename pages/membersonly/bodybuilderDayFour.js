@@ -27,7 +27,7 @@ function bodyBuilderDayThree() {
       name="#2 Jump Rope"
       description="It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters."
       image="https://res.cloudinary.com/dckwf6med/image/upload/v1661387878/Web%20Dev%20Projects/AnyConv.com__Rectangle_756_1_ciccf6.webp"
-      sets="5 sets of 5-12 reps"
+      sets="30s high speed, 30s-1m slow and repeat"
     />
     {/* <DayOneWorkout
       name="#3 Seated Row Machine"
