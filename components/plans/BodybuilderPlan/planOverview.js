@@ -25,7 +25,7 @@ function planOverview() {
             className="planimg"
             src="https://res.cloudinary.com/dckwf6med/image/upload/v1661359970/Web%20Dev%20Projects/Group_79_2_1_bzk1ha.webp"
           />
-          <p className="plantitle text-center">Ultimate bodybuilding plan</p>{" "}
+          <p className="plantitle text-center">Ultimate HIIT workouts</p>{" "}
         </div>
       </div>
 
