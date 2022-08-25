@@ -18,16 +18,16 @@ function footer() {
         </div>
       </div>
       <div className="hidden sm:block w-2/12 -mt-5 space-y-4">
-        <p className="mt-6 text-gray-200 hover:text-pink cursor-pointer font-light ml-3">
-          Home
+        <p className="mt-6 text-gray-200 font-light ml-3"><a href="/api/auth/logout" className="hover:text-footer-hover cursor-pointer">
+          Home</a>
         </p>
-        <p className=" text-gray-200 font-light ml-3">About us</p>
-        <p className=" text-gray-200 font-light ml-3">Login &amp; Signup</p>
+        <p className=" text-gray-200 font-light ml-3"><a>About us</a></p>
+        <p className=" text-gray-200 font-light ml-3"><a href="/api/auth/login">Login &amp; Signup</a></p>
       </div>
 
       <div className="hidden sm:block w-2/12 -mt-5 space-y-4">
-        <p className="mt-6 text-gray-200 font-light ml-3">Introduction</p>
-        <p className=" text-gray-200 font-light ml-3">Plan Overview</p>
+        <p className="mt-6 text-gray-200 font-light ml-3"><a href="/membersonly/introduction">Introduction</a></p>
+        <p className=" text-gray-200 font-light ml-3"><a href="/api/auth/login">Plan Overview</a></p>
         <p className=" text-gray-200 font-light ml-3">Blog Overview</p>
       </div>
 
@@ -44,16 +44,16 @@ function footer() {
       <div className="px-6 -mt-10 pb-20  max-w-7xl  mx-auto flex">
 
       <div className=" sm:hidden w-4/12 space-y-4">
-        <p className="mt-6 text-gray-200 hover:text-pink cursor-pointer font-light ml-3">
-          Home page
+        <p className="mt-6 text-gray-200 font-light ml-3"><a href="/api/auth/logout" className="hover:text-footer-hover cursor-pointer">
+          Home</a>
         </p>
         <p className=" text-gray-200 font-light ml-3">About Us</p>
-        <p className=" text-gray-200 font-light ml-3">Login/ Signup</p>
+        <p className=" text-gray-200 font-light ml-3"><a href="/api/auth/login">Login/ Signup</a></p>
       </div>
 
       <div className=" sm:hidden w-4/12 space-y-4">
-        <p className="mt-6 text-gray-200 font-light ml-3">Introduction</p>
-        <p className=" text-gray-200 font-light ml-3">Plan Overview</p>
+        <p className="mt-6 text-gray-200 font-light ml-3"><a href="/membersonly/introduction">Introduction</a></p>
+        <p className=" text-gray-200 font-light ml-3"><a href="/api/auth/login">Plan Overview</a></p>
         <p className=" text-gray-200 font-light ml-3">Blog Overview</p>
       </div>
 
