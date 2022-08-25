@@ -9,7 +9,7 @@ function hero() {
             >
               <span className="stroke-title">READY TO</span>
               <br /> GET STARTED <br />{" "}
-              <span className="stroke-title">AT LB FITNESS</span>
+              <span className="stroke-title">BODYBUILDER</span>
             </h2>
             <img
               className="bg hidden sm:block h-screen w-screen"
