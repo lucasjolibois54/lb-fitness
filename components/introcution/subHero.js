@@ -11,24 +11,36 @@ function subHero() {
         </span>
       </h2>
       <p className="text-base text-center px-5 md:text-lg max-w-2xl mx-auto text-gray-400 mt-5">
-        It is a long established fact that a reader will be distracted by the
-        readable content of a page when looking at its layout. The point of
-        using Lorem Ipsum is that it has a more-or-less normal distribution of
-        letters.
+        Welcome to our platform. Watch the video below to learn more about how
+        the LB Fitness platform works, how to plans are structured, as well as
+        our future plans for the platform. This is only the beginning.
       </p>
       <div className="mt-7 text-center">
-        <a className="text-pink py-2 px-10 rounded-full border-gray-stroke border-2 cursor-pointer" href="/">
-        Skip introduction
+        <a
+          className="text-pink py-2 px-10 rounded-full border-gray-stroke border-2 cursor-pointer"
+          href="/"
+        >
+          Skip introduction
         </a>
       </div>
       <div className=" pl-5 pr-5 mt-20 flex justify-center items-center">
-      <video className="max-w-5xl" poster={"https://res.cloudinary.com/dckwf6med/image/upload/v1661442252/Web%20Dev%20Projects/Sk%C3%A6rmbillede_2022-08-25_kl._17.43.36_dmtb6q.webp"} width="100%" src="https://res.cloudinary.com/dckwf6med/video/upload/v1661441489/Web%20Dev%20Projects/Introduction_to_LB_Fitness_1_plbesh.mp4" controls
-         css={`
-         height: 95vh;
-         width: 80vw;
-       `}>
+        <video
+          className="max-w-5xl"
+          poster={
+            "https://res.cloudinary.com/dckwf6med/image/upload/v1661442252/Web%20Dev%20Projects/Sk%C3%A6rmbillede_2022-08-25_kl._17.43.36_dmtb6q.webp"
+          }
+          width="100%"
+          src="https://res.cloudinary.com/dckwf6med/video/upload/v1661441489/Web%20Dev%20Projects/Introduction_to_LB_Fitness_1_plbesh.mp4"
+          controls
+          css={`
+            height: 95vh;
+            width: 80vw;
+          `}
+        >
           Your browser does not support the video tag.
-        </video>    </div></div>
+        </video>{" "}
+      </div>
+    </div>
   );
 }
 
