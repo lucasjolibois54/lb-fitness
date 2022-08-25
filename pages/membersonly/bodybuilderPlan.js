@@ -36,7 +36,7 @@ function bodybuilderPlan() {
         name="Day 4"
         description="It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters."
         image="https://res.cloudinary.com/dckwf6med/image/upload/v1661371890/Web%20Dev%20Projects/Rectangle_738_nfvdi3.webp"
-        linking="/"
+        linking="/membersonly/bodybuilderDayFour"
         buttonText="Get started"
       />
       <Footer />
