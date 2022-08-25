@@ -13,28 +13,28 @@ function bodybuilderPlan() {
       <Hero />
       <BodybuilderDays
         name="Day 1"
-        description="It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters."
+        description="Day 1 is a push day. A push workout is primarily centered around muscle groups that perform similar actions. The objective of the push workout is to help you achieve a well-rounded chest as well as big triceps."
         image="https://res.cloudinary.com/dckwf6med/image/upload/v1661370819/Web%20Dev%20Projects/Rectangle_12_2_1_gdmvdj.webp"
         linking="/membersonly/bodybuilderDayOne"
         buttonText="Get started"
       />
             <BodybuilderDays
         name="Day 2"
-        description="It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters."
+        description="Day 2 is a leg day. When it comes to designing an effective leg workout, simpler is better. This workout focuses on the major muscle groups of the legs: the glutes, quads, hamstrings, and calves."
         image="https://res.cloudinary.com/dckwf6med/image/upload/v1661371893/Web%20Dev%20Projects/Rectangle_734_nch8oo.webp"
         linking="/membersonly/bodybuilderDayTwo"
         buttonText="Get started"
       />
             <BodybuilderDays
         name="Day 3"
-        description="It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters."
+        description="Day 3 is a pull day, which includes strength training movements that involve a concentric contraction. The focus on this day, will be helping you develop a wide back and big biceps."
         image="https://res.cloudinary.com/dckwf6med/image/upload/v1661371892/Web%20Dev%20Projects/Rectangle_736_flriuh.webp"
         linking="/membersonly/bodybuilderDayThree"
         buttonText="Get started"
       />
             <BodybuilderDays
         name="Day 4"
-        description="It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters."
+        description="Day 4 can be a rest day, or an active rest day, depending on how you are feeling. Here you’ll be focusing on doing anything from yoga to a HIIT workout. In general, an active rest day features easier workouts."
         image="https://res.cloudinary.com/dckwf6med/image/upload/v1661371890/Web%20Dev%20Projects/Rectangle_738_nfvdi3.webp"
         linking="/membersonly/bodybuilderDayFour"
         buttonText="Get started"
