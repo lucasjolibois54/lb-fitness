@@ -21,8 +21,8 @@ function subHero() {
         Skip introduction
         </a>
       </div>
-      <div className="max-w-5xl mt-20 ">
-      <video poster={"https://res.cloudinary.com/dckwf6med/image/upload/v1661442252/Web%20Dev%20Projects/Sk%C3%A6rmbillede_2022-08-25_kl._17.43.36_dmtb6q.webp"} width="100%" src="https://res.cloudinary.com/dckwf6med/video/upload/v1661441489/Web%20Dev%20Projects/Introduction_to_LB_Fitness_1_plbesh.mp4" controls
+      <div className=" pl-5 pr-5 mt-20 flex justify-center items-center">
+      <video className="max-w-5xl" poster={"https://res.cloudinary.com/dckwf6med/image/upload/v1661442252/Web%20Dev%20Projects/Sk%C3%A6rmbillede_2022-08-25_kl._17.43.36_dmtb6q.webp"} width="100%" src="https://res.cloudinary.com/dckwf6med/video/upload/v1661441489/Web%20Dev%20Projects/Introduction_to_LB_Fitness_1_plbesh.mp4" controls
          css={`
          height: 95vh;
          width: 80vw;
