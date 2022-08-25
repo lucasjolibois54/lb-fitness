@@ -21,20 +21,20 @@ function footer() {
         <p className="mt-6 text-gray-200 hover:text-pink cursor-pointer font-light ml-3">
           Home
         </p>
-        <p className=" text-gray-200 font-light ml-3">Contact us</p>
+        <p className=" text-gray-200 font-light ml-3">About us</p>
         <p className=" text-gray-200 font-light ml-3">Login &amp; Signup</p>
       </div>
 
       <div className="hidden sm:block w-2/12 -mt-5 space-y-4">
-        <p className="mt-6 text-gray-200 font-light ml-3">paragraph</p>
-        <p className=" text-gray-200 font-light ml-3">paragraph</p>
-        <p className=" text-gray-200 font-light ml-3">paragraph</p>
+        <p className="mt-6 text-gray-200 font-light ml-3">Introduction</p>
+        <p className=" text-gray-200 font-light ml-3">Plan Overview</p>
+        <p className=" text-gray-200 font-light ml-3">Blog Overview</p>
       </div>
 
       <div className="hidden sm:block w-2/12 -mt-5 space-y-4">
-        <p className="mt-6 text-gray-200 font-light ml-3">paragraph</p>
-        <p className=" text-gray-200 font-light ml-3">paragraph</p>
-        <p className=" text-gray-200 font-light ml-3">paragraph</p>
+        <p className="mt-6 text-gray-200 font-light ml-3">FAQ'S</p>
+        <p className=" text-gray-200 font-light ml-3">Diet Plan</p>
+        <p className=" text-gray-200 font-light ml-3">Find Your Plan</p>
       </div>
     </div>
 
