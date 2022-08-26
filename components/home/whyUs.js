@@ -12,7 +12,7 @@ function whyUs() {
                 LB Fitness is the best free-to-use fitness platform available on the internet, containing workout &amp; diet plans, fitness related blogs, quizzes to help you achieve your goals, and so much more. Sign up to get started!                </p>
                 <div className="mt-4">
                     <a className="text-pink py-2 px-10 rounded-full border-gray-stroke border-2 cursor-pointer">
-                        Explore
+                        Sign up
                     </a></div>
             </div>
         </div>
