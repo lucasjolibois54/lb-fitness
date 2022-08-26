@@ -1,5 +1,6 @@
 import React from 'react'
 
+
 const promoVideo = () => {
     return (
         <>
@@ -7,7 +8,7 @@ const promoVideo = () => {
                 <div class="relative max-w-8xl">
                   
                 <div className="mt-4 top-1/2 absolute lg:top-2/3 left-1/2 -translate-x-1/2">
-                    <a className="text-pink text-2xl py-2 px-10 rounded-full border-gray-stroke border-2 cursor-pointer">
+                    <a target="_blank" href='https://res.cloudinary.com/dckwf6med/video/upload/v1661535482/Web%20Dev%20Projects/Workout_video_kibdhs.mp4' className="text-pink text-2xl py-2 px-10 rounded-full border-gray-stroke border-2 cursor-pointer">
                         Play Video
                     </a></div>
                      
