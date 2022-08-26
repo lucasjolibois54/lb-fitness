@@ -3,7 +3,7 @@ import React from 'react'
 const promoVideo = () => {
     return (
         <>
-            <div className='flex justify-center -mt-10'>
+            <div id='the-video' className='flex justify-center -mt-10'>
                 <div class="relative max-w-8xl">
                   
                 <div className="mt-4 top-1/2 absolute lg:top-2/3 left-1/2 -translate-x-1/2">
