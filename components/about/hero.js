@@ -21,7 +21,7 @@ function hero() {
             Explore
           </a>
         </div></div></div>
-        <div class="mouse_scroll pt-20 md:pt-80">
+        <div class="mouse_scroll pt-20 md:pt-80 pb-20">
 
 		<div class="mouse">
 			<div class="wheel"></div>
