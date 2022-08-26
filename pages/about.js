@@ -7,12 +7,14 @@ import SubPromoVideo from '../components/about/subPromoVideo';
 import Faq from '../components/about/faq';
 import OnInstagram from '../components/about/onInstagram';
 import Footer from '../components/main/footer';
+import AboutVideo from '../components/about/aboutVideo';
 
 function about() {
   return (
     <div className=''>
         <HomeHeader/>
         <TempHero/>
+        <AboutVideo/>
         <AboutUs/>
         <PromoVideo/>
         <SubPromoVideo/>
