@@ -4,6 +4,7 @@ import TempHero from '../components/about/tempHero';
 import AboutUs from '../components/about/aboutUs';
 import PromoVideo from '../components/about/promoVideo';
 import SubPromoVideo from '../components/about/subPromoVideo';
+import Faq from '../components/about/faq';
 
 function about() {
   return (
@@ -13,6 +14,7 @@ function about() {
         <AboutUs/>
         <PromoVideo/>
         <SubPromoVideo/>
+        <Faq/>
     </div>
   )
 }
