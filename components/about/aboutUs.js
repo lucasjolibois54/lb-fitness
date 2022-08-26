@@ -2,7 +2,7 @@
 function aboutUs() {
     return (
 
-        <div className="my-auto mx-auto flex flex-col-reverse md:flex-row mt-48 mb-0 max-w-7xl md:p-16">
+        <div className="my-auto mx-auto flex flex-col-reverse md:flex-row mt-36 mb-0 max-w-7xl md:p-16">
             <div className="mx-auto float-righ">
                 <img className="w-11/12" src="https://res.cloudinary.com/dckwf6med/image/upload/v1661524337/Web%20Dev%20Projects/image_57_2_ejbqkl.png" />
             </div>
