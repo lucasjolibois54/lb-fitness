@@ -33,6 +33,7 @@ function tempHero() {
 		</div>
 </div>
       </div>
+      <img className="absolute top-0" src="https://res.cloudinary.com/dckwf6med/image/upload/v1661523827/Web%20Dev%20Projects/Ellipse-100-_1__jahl4k.webp"/>
     </>
   );
 }
