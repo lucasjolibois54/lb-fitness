@@ -21,7 +21,7 @@ function footer() {
         <p className="mt-6 text-gray-200 font-light ml-3"><a href="/api/auth/logout" className="hover:text-footer-hover cursor-pointer">
           Home</a>
         </p>
-        <p className=" text-gray-200 font-light ml-3"><a>About us</a></p>
+        <p className=" text-gray-200 font-light ml-3"><a href="/about">About us</a></p>
         <p className=" text-gray-200 font-light ml-3"><a href="/api/auth/login">Login &amp; Signup</a></p>
       </div>
 
