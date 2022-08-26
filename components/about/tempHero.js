@@ -17,7 +17,7 @@ function tempHero() {
           </span>
         </h1>
         <div className="mt-4 flex justify-center">
-          <a href="#the-video" className="text-center text-pink py-2 px-10 rounded-full border-gray-stroke border-2 cursor-pointer">
+          <a href="#about-us-video" className="text-center text-pink py-2 px-10 rounded-full border-gray-stroke border-2 cursor-pointer">
             Explore
           </a>
         </div></div></div>
