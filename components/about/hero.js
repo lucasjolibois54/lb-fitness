@@ -2,7 +2,9 @@ import React from 'react'
 
 function hero() {
   return (
-    <div>hero</div>
+    <div className='mt-20'>
+        <p>About Us</p>
+    </div>
   )
 }
 
