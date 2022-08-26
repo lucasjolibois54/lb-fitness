@@ -15,10 +15,9 @@ function hero() {
 
                         <h1 className="text-white mt-7 sm:mt-0 text-6xl xsm:text-7xl sm:text-6xl md-lg:text-7xl lg:text-8xl font-bold stroke-title">FITNESS <span className="stroke-removal"><br />TRAINING </span><br />PLAN</h1>
                         <p className="text-base md:text-lg text-dark-text py-5 lg:px-24 lg:pl-0 lg:pr-20 max-w-2xl text-gray-400 mt-5">
-                            It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters.
-                        </p>
+                        LB Fitness is the best free-to-use fitness platform in the industry. It contains workoutplans, diet plans, blogs ans so much more. Visit the about page or scroll down to learn more. Sign up today to get started!                        </p>
                         <div className="mt-4">
-                            <a className="text-pink py-2 px-10 rounded-full border-gray-stroke border-2 cursor-pointer">
+                            <a href="#explore-the-home-page" className="text-pink py-2 px-10 rounded-full border-gray-stroke border-2 cursor-pointer">
                                 Explore
                             </a></div>
                     </div>
