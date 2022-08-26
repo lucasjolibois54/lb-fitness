@@ -3,7 +3,7 @@ import React from "react";
 function tempHero() {
   return (
     <>
-      <div className="max-w-6xl mx-auto mt-36 sm:mt-28 md:pt-20">
+      <div className="max-w-6xl mx-auto relative z-50 mt-36 sm:mt-28 md:pt-20">
         <div className="hidden md:flex justify-center">
           <hr className="w-1/12 mt-3" /> <p className="pl-3 pr-3">About Us</p><hr className="w-1/12 mt-3" />
         </div>
@@ -17,7 +17,7 @@ function tempHero() {
           </span>
         </h1>
         <div className="mt-4 flex justify-center">
-          <a className="text-center text-pink py-2 px-10 rounded-full border-gray-stroke border-2 cursor-pointer">
+          <a href="#the-video" className="text-center text-pink py-2 px-10 rounded-full border-gray-stroke border-2 cursor-pointer">
             Explore
           </a>
         </div></div></div>
