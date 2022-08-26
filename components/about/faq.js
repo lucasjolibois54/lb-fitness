@@ -18,7 +18,7 @@ function faq() {
 
     <div className='border-t border-white mt-5 px-5'>
         <p className='stroke-title font-bold text-4xl mt-5'>02.</p>
-        <h3 className='leading-tight mt-4 text-white text-4xl xsm:text-3xl pr-7 sm:text-4xl md:6xl md-lg:text-5xl lg:text-4xl font-bold stroke-removal'>WHAT CAN I FINT ON THE PLATFORM?</h3>
+        <h3 className='leading-tight mt-4 text-white text-4xl xsm:text-3xl pr-7 sm:text-4xl md:6xl md-lg:text-5xl lg:text-4xl font-bold stroke-removal'>WHAT CAN I FIND ON THE PLATFORM?</h3>
         <p className="text-base font-light md:text-lg py-5 lg:px-24 lg:pl-0 max-w-4xl lg:pr-20 text-gray-400 mt-0">
                 The platform will be containing workout &amp; diet plans, fitness related blogs, quizzes to help you achieve your goals, and so much more.               </p>
     </div>
