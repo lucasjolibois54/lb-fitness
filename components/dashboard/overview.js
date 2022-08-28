@@ -10,7 +10,7 @@ function overview() {
             className="planimg"
             src="https://res.cloudinary.com/dckwf6med/image/upload/v1661723011/Web%20Dev%20Projects/Rectangle_800_gfm3b8.webp"
           />
-          <p className="plantitle text-center">Ultimate bodybuilding plan</p></div></a>
+          <p className="plantitle text-center">Workouts</p></div></a>
         </div>
 
         <div className="w-4/6 sm:w-3/12 space-y-4">
@@ -18,7 +18,7 @@ function overview() {
             className="planimg"
             src="https://res.cloudinary.com/dckwf6med/image/upload/v1661723009/Web%20Dev%20Projects/Rectangle_801_kno1yw.webp"
           />
-          <p className="plantitle text-center">Ultimate homeworkout plan</p>{" "}</div>
+          <p className="plantitle text-center">Diets</p>{" "}</div>
         </div>
 
         <div className="w-4/6 sm:w-3/12 space-y-4">
@@ -26,7 +26,7 @@ function overview() {
             className="planimg"
             src="https://res.cloudinary.com/dckwf6med/image/upload/v1661723008/Web%20Dev%20Projects/Rectangle_802_iyaup1.webp"
           />
-          <p className="plantitle text-center">Ultimate HIIT workouts</p>{" "}</div></a>
+          <p className="plantitle text-center">Blog</p>{" "}</div></a>
         </div>
       </div>
 
