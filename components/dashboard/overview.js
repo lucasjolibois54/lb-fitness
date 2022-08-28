@@ -18,7 +18,7 @@ function overview() {
             className="planimg"
             src="https://res.cloudinary.com/dckwf6med/image/upload/v1661723009/Web%20Dev%20Projects/Rectangle_801_kno1yw.webp"
           />
-          <p className="plantitle text-center text-5xl font-bold stroke-title">Diets</p>{" "}</div>
+          <p className="plantitle text-center text-5xl font-bold stroke-title">Meals</p>{" "}</div>
         </div>
 
         <div className="w-4/6 sm:w-3/12 space-y-4">
