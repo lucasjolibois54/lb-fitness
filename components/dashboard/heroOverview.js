@@ -3,7 +3,8 @@ import { useUser } from '@auth0/nextjs-auth0';
 function heroOverview() {
   const { user } = useUser();
   return (
-    <div>
+    <>
+    <div className='max-w-7xl mx-auto'>
               {/* more coming soon */}
               <h2 className="!leading-tight pb-10 text-white text-center mt-20 pt-20 sm:mt-36 text-4xl xsm:text-4xl sm:text-6xl md-lg:text-7xl lg:text-6xl font-bold stroke-removal">
               WELCOME TO THE OVERVIEW PAGE{" "}
@@ -13,6 +14,7 @@ function heroOverview() {
         </span>
       </h2>
     </div>
+    </>
   )
 }
 
