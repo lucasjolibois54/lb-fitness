@@ -14,11 +14,11 @@ function overview() {
         </div>
 
         <div className="w-4/6 sm:w-3/12 space-y-4">
-        <div className="transition duration-300 group transform hover:-translate-y-3 hover:shadow-2xl rounded-2xl cursor-pointer"><img
+        <a href="/membersonly/meals"><div className="transition duration-300 group transform hover:-translate-y-3 hover:shadow-2xl rounded-2xl cursor-pointer"><img
             className="planimg"
             src="https://res.cloudinary.com/dckwf6med/image/upload/v1661723009/Web%20Dev%20Projects/Rectangle_801_kno1yw.webp"
           />
-          <p className="plantitle text-center text-5xl font-bold stroke-title">Meals</p>{" "}</div>
+          <p className="plantitle text-center text-5xl font-bold stroke-title">Meals</p>{" "}</div></a>
         </div>
 
         <div className="w-4/6 sm:w-3/12 space-y-4">
