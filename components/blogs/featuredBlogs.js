@@ -6,6 +6,10 @@ function featuredBlogs() {
         <h3 className='!leading-tight text-white text-center px-5 mt-28 sm:mt-20 text-4xl xsm:text-3xl sm:text-4xl md:4xl md-lg:text-4xl lg:text-4xl font-bold stroke-removal'>
             FEATURED BLOGS
         </h3>
+
+
+
+
     </div>
   )
 }
