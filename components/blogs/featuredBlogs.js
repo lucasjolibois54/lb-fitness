@@ -17,6 +17,11 @@ function featuredBlogs() {
         <img className='9/12' src='https://res.cloudinary.com/dckwf6med/image/upload/v1661808920/Web%20Dev%20Projects/image_62_1_tbz8z1.webp'/>
             <img className='w-6/12' src='https://res.cloudinary.com/dckwf6med/image/upload/v1661808957/Web%20Dev%20Projects/image_61_1_k3629a.webp'/>
         </div>
+        <div className="mt-10 pt-5 flex justify-center">
+          <a href="#" className="text-center text-pink py-3 px-12 rounded-full border-gray-stroke border-2 cursor-pointer">
+            View All
+          </a>
+        </div>
     </div>
   )
 }
