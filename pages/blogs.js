@@ -4,7 +4,7 @@ import Hero from '../components/blogs/hero'
 
 function blogs() {
   return (
-    <div>
+    <div className='h-screen'>
       <HeaderAfterLogin/>
       <Hero/>
     </div>
