@@ -16,7 +16,7 @@ function featuredBlogs() {
        
        
         <div className="mt-10 pt-5 flex justify-center">
-          <a href="#" className="text-center text-pink py-3 px-12 rounded-full border-gray-stroke border-2 cursor-pointer">
+          <a href="/allBlogs" className="text-center text-pink py-3 px-12 rounded-full border-gray-stroke border-2 cursor-pointer">
             View All
           </a>
         </div>
