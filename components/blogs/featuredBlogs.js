@@ -9,17 +9,16 @@ function featuredBlogs() {
 
 
 <div className="mx-auto">
-  <div className="grid grid-cols-3 gap-2 grid-flow-row grid-">
-    <div className="p-5 text-center bg-transparent col-start-1 col-end-2">
-    <img className='w-full' src='https://res.cloudinary.com/dckwf6med/image/upload/v1661808957/Web%20Dev%20Projects/image_61_1_k3629a.webp'/>
+  <div className="grid sm:grid-cols-3 gap-2 sm:grid-flow-row grid-">
+    <div className="p-5 sm:p-2 text-center bg-transparent sm:col-start-1 sm:col-end-2">
+    <img className='w-full sm:h-full' src='https://res.cloudinary.com/dckwf6med/image/upload/v1661808957/Web%20Dev%20Projects/image_61_1_k3629a.webp'/>
     </div>
 
-    <div className="p-5 text-center bg-transparent col-start-2 col-end-4">
-    <img className='w-full pr-6' src='https://res.cloudinary.com/dckwf6med/image/upload/v1661808920/Web%20Dev%20Projects/image_62_1_tbz8z1.webp'/>
+    <div className="p-5 sm:p-2 text-center bg-transparent  sm:col-start-2 sm:col-end-4">
+    <img className='w-full hidden sm:block' src='https://res.cloudinary.com/dckwf6med/image/upload/v1661808920/Web%20Dev%20Projects/image_62_1_tbz8z1.webp'/>
+    <img className='w-full sm:h-full sm:hidden' src='https://res.cloudinary.com/dckwf6med/image/upload/v1661808957/Web%20Dev%20Projects/image_61_1_k3629a.webp'/>
+
     </div>
-    {/* <div className="p-5 text-center bg-white">C</div>
-    <div className="p-5 text-center bg-white">D</div>
-    <div className="p-5 text-center bg-white">E</div> */}
   </div>
 </div>
     </div>
