@@ -52,7 +52,13 @@ function benefitsOfHIIT() {
           <BlogImage
                  image="https://res.cloudinary.com/dckwf6med/image/upload/v1662153972/Web%20Dev%20Projects/Mask_group_4_1_wfmzgl.webp"
                  />
-        
+      
+
+      <TextSection
+        title="Summary"
+        paragraph="As mentioned throughout the blog article, there are a lot of benefits when doing high intensity interval training, additionally, there are also a lot of different ways (exercises) to practice HIIT. It's just important to keep your heart rate up, take breaks (active rest) in between your “sets”. When doing the actual exercises, go as hard as you can. Here, we just went through some of them, as the list can go on forever. If you would like to see more HIIT exercises, click on the link below in order to access our full HIIT workout plan."
+        />
+
         <Footer/></div>
   )
 }
