@@ -18,6 +18,12 @@ module.exports = {
       'md': '768px',
       // => @media (min-width: 768px) { ... }
 
+      'md-blog-img': '791px',
+      // => @media (min-width: 791px) { ... }
+
+      'lg-blog-img': '839px',
+      // => @media (min-width: 839px) { ... }
+
       'md-lg': '878px',
       // => @media (min-width: 878px) { ... }
 
