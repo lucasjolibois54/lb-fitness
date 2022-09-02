@@ -10,7 +10,7 @@ import Footer from '../../components/main/footer'
 
 function benefitsOfHIIT() {
   return (
-    <div className='mb-20'>
+    <div>
       <HomeHeader/>
         <Hero
         title="Benefits of High Intensity Interval Training (HIIT)"
