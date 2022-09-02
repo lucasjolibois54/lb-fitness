@@ -5,6 +5,7 @@ import TextSection from '../../components/blogs/blog-articles/textSection'
 import ParagraphSection from '../../components/blogs/blog-articles/paragraphSection'
 import TextSlider from '../../components/blogs/blog-articles/textSlider'
 import SubTextSection from '../../components/blogs/blog-articles/subTextSection'
+import BlogImage from '../../components/blogs/blog-articles/blogImage'
 import Footer from '../../components/main/footer'
 
 function benefitsOfHIIT() {
@@ -32,6 +33,9 @@ function benefitsOfHIIT() {
          title="1.- The one innit"
          paragraph="It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters. It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters. It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters."
          />
+         <BlogImage
+                 image="https://res.cloudinary.com/dckwf6med/image/upload/v1662139445/Web%20Dev%20Projects/image_60_1_1_jwn4un.webp"
+                 />
 
 <SubTextSection
          title="2.- The one innit"
