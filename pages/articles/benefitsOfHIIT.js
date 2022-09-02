@@ -4,6 +4,7 @@ import HomeHeader from '../../components/main/homeHeader'
 import TextSection from '../../components/blogs/blog-articles/textSection'
 import ParagraphSection from '../../components/blogs/blog-articles/paragraphSection'
 import TextSlider from '../../components/blogs/blog-articles/textSlider'
+import SubTextSection from '../../components/blogs/blog-articles/subTextSection'
 import Footer from '../../components/main/footer'
 
 function benefitsOfHIIT() {
@@ -26,6 +27,21 @@ function benefitsOfHIIT() {
 />
 
         <TextSlider/>
+
+        <SubTextSection
+         title="1.- The one innit"
+         paragraph="It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters. It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters. It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters."
+         />
+
+<SubTextSection
+         title="2.- The one innit"
+         paragraph="It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters. It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters. It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters."
+         />
+
+<SubTextSection
+         title="3.- The one innit"
+         paragraph="It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters. It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters. It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters."
+         />
         
         <Footer/></div>
   )
