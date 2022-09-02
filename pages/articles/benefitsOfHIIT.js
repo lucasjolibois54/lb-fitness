@@ -2,6 +2,8 @@ import React from 'react'
 import Hero from '../../components/blogs/blog-articles/hero'
 import HomeHeader from '../../components/main/homeHeader'
 import TextSection from '../../components/blogs/blog-articles/textSection'
+import ParagraphSection from '../../components/blogs/blog-articles/paragraphSection'
+import TextSlider from '../../components/blogs/blog-articles/textSlider'
 import Footer from '../../components/main/footer'
 
 function benefitsOfHIIT() {
@@ -18,6 +20,12 @@ function benefitsOfHIIT() {
         title="Why should you do HIIT?"
         paragraph="It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters. It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters. It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters."
         />
+
+        <ParagraphSection
+                paragraph="It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters. It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters. It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters."
+/>
+
+        <TextSlider/>
         
         <Footer/></div>
   )
