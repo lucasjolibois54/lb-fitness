@@ -30,16 +30,16 @@ function benefitsOfHIIT() {
         <TextSlider/>
 
         <SubTextSection
-         title="1.- The one innit"
-         paragraph="It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters. It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters. It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters."
+         title="1.- The TRX HIIT Circuit"
+         paragraph="Let’s start off with an interesting yet intense HIIT workout, making it perfect for people who are tired repeatedly doing the same exercise. This exercise is called the TRX, and is a circuit consisting of 6 exercises. The circuit consists of: Jump squats (15 reps), Back rows (15 reps), Left single leg squats (10 reps), Right single leg squats (10 reps), Mountain climbers (30 seconds), and then you finish os with the Plank (60 seconds). After the circuit is completed, you rest for 1 to 2 minutes, and then you repeat it 4 to 6 more times. We definitely weren’t kidding when we said that it was intense. Are you up for the challenge?"
          />
          <BlogImage
                  image="https://res.cloudinary.com/dckwf6med/image/upload/v1662139445/Web%20Dev%20Projects/image_60_1_1_jwn4un.webp"
                  />
 
 <SubTextSection
-         title="2.- The one innit"
-         paragraph="It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters. It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters. It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters."
+         title="2.- The Basic Jump Rope HIIT Workout"
+         paragraph="The Jump Rope HIIT Workout is a pretty basic and popular exercise, as jump ropes are one of the most efficient tools to burn calories. You can do this HIIT working in one of two ways. The most popular one is where you jump for 20s-45s as fast as you possibly can, and then you jump slowly for 1.5 times longer than the intense jumping. Repeat the process for 10-20 min (or longer if possible). If you want to up the pace, you can change the jumping method, by doing the following: jump for 20 seconds, rest for 10s, jump on the right foot for 20s, rest for 10s, jump on the left foot for 20s, rest for 10 seconds, jump with high knees for 20s, rest for 10s, jump for 20s, rest for 10s, rest for one minute."
          />
           <BlogImage
                  image="https://res.cloudinary.com/dckwf6med/image/upload/v1662139445/Web%20Dev%20Projects/image_60_1_1_jwn4un.webp"
