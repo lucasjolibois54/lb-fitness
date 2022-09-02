@@ -31,10 +31,10 @@ function benefitsOfHIIT() {
 
         <SubTextSection
          title="1.- The TRX HIIT Circuit"
-         paragraph="Let’s start off with an interesting yet intense HIIT workout, making it perfect for people who are tired repeatedly doing the same exercise. This exercise is called the TRX, and is a circuit consisting of 6 exercises. The circuit consists of: Jump squats (15 reps), Back rows (15 reps), Left single leg squats (10 reps), Right single leg squats (10 reps), Mountain climbers (30 seconds), and then you finish os with the Plank (60 seconds). After the circuit is completed, you rest for 1 to 2 minutes, and then you repeat it 4 to 6 more times. We definitely weren’t kidding when we said that it was intense. Are you up for the challenge?"
+         paragraph="Let’s start off with an interesting yet intense HIIT workout, making it perfect for people who are tired repeatedly doing the same exercise. This exercise is called the TRX, and is a circuit consisting of 6 exercises. The circuit consists of: Jump squats or jump box (15 reps), Back rows (15 reps), Left single leg squats (10 reps), Right single leg squats (10 reps), Mountain climbers (30 seconds), and then you finish os with the Plank (60 seconds). After the circuit is completed, you rest for 1 to 2 minutes, and then you repeat it 4 to 6 more times. We definitely weren’t kidding when we said that it was intense. Are you up for the challenge?"
          />
          <BlogImage
-                 image="https://res.cloudinary.com/dckwf6med/image/upload/v1662139445/Web%20Dev%20Projects/image_60_1_1_jwn4un.webp"
+                 image="https://res.cloudinary.com/dckwf6med/image/upload/v1662153402/Web%20Dev%20Projects/Mask_group_2_2_ajp5hg.webp"
                  />
 
 <SubTextSection
