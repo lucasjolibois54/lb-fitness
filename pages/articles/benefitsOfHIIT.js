@@ -1,6 +1,7 @@
 import React from 'react'
 import Hero from '../../components/blogs/blog-articles/hero'
 import HomeHeader from '../../components/main/homeHeader'
+import TextSection from '../../components/blogs/blog-articles/textSection'
 
 function benefitsOfHIIT() {
   return (
@@ -12,7 +13,10 @@ function benefitsOfHIIT() {
         image="https://res.cloudinary.com/dckwf6med/image/upload/v1662139445/Web%20Dev%20Projects/image_60_1_1_jwn4un.webp"
         />
         
-        benefitsOfHIIT</div>
+        <TextSection
+        title="Why should you do HIIT?"
+        paragraph="It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters. It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters. It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters."
+        /></div>
   )
 }
 
