@@ -20,7 +20,7 @@ function benefitsOfHIIT() {
         
         <TextSection
         title="Why should you do HIIT?"
-        paragraph="It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters. It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters. It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters."
+        paragraph="HIIT training is a perfect way not only to burn calories, but also to burn fat. After your workout, all of that intense exertion kicks your body's repair cycle into hyperdrive. This means that your body will start burning more calories for the next 6 to 24 hours. Combining HIIT with strength training makes it a perfect way to lose weight, while also building muscle mass. In addition to muscle preservation and fat burning, HIIT also helps your body to create more HGH  (up to more than 400%) during these 6 to 24 hours after the workout. This is why this type of training has been so popularized throughout the last couple of years."
         />
 
         <ParagraphSection
