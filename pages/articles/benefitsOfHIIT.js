@@ -24,7 +24,7 @@ function benefitsOfHIIT() {
         />
 
         <ParagraphSection
-                paragraph="It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters. It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters. It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters."
+                paragraph="HIIT workout usually takes between 10 to 20 minutes, making it the perfect exercise for people with “no time in their hands”. HIIT stands for High-Intensity Interval Training and is a combination between brief and very-high intensity cardio exercises, followed by an equal or longer “rest”. Often the rest-time is a repetition of the same high-intensity exercise, but with very little intensity. Next, let’s look into different types of high-intensity interval exercises."
 />
 
         <TextSlider/>
