@@ -6,7 +6,11 @@ function benefitsOfHIIT() {
   return (
     <div>
       <HomeHeader/>
-        <Hero/>
+        <Hero
+        title="Benefits of High Intensity Interval Training (HIIT)"
+        readTime="READ TIME • 3 MIN"
+        image="https://res.cloudinary.com/dckwf6med/image/upload/v1662139445/Web%20Dev%20Projects/image_60_1_1_jwn4un.webp"
+        />
         
         benefitsOfHIIT</div>
   )
