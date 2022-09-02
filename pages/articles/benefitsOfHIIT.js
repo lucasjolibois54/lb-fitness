@@ -42,7 +42,7 @@ function benefitsOfHIIT() {
          paragraph="The Jump Rope HIIT Workout is a pretty basic and popular exercise, as jump ropes are one of the most efficient tools to burn calories. You can do this HIIT working in one of two ways. The most popular one is where you jump for 20s-45s as fast as you possibly can, and then you jump slowly for 1.5 times longer than the intense jumping. Repeat the process for 10-20 min (or longer if possible). If you want to up the pace, you can change the jumping method, by doing the following: jump for 20 seconds, rest for 10s, jump on the right foot for 20s, rest for 10s, jump on the left foot for 20s, rest for 10 seconds, jump with high knees for 20s, rest for 10s, jump for 20s, rest for 10s, rest for one minute."
          />
           <BlogImage
-                 image="https://res.cloudinary.com/dckwf6med/image/upload/v1662139445/Web%20Dev%20Projects/image_60_1_1_jwn4un.webp"
+                 image="https://res.cloudinary.com/dckwf6med/image/upload/v1662153757/Web%20Dev%20Projects/Mask_group_3_1_lt7t4s.webp"
                  />
 
 <SubTextSection
@@ -50,7 +50,7 @@ function benefitsOfHIIT() {
          paragraph="The Battle Ropes Blitz HIIT workout is a globalized form of HIIT training, known all across the globe, and it is extremely easy to get started with it. Just move the battle ropes at as fast and aggressive of a pace as you possibly can. You can decide whether you prefer slams or waves, as long as you work for at least 30 seconds. Once the 30 seconds have passed, rest for about a minute and then repeat for 10 rounds."
          />
           <BlogImage
-                 image="https://res.cloudinary.com/dckwf6med/image/upload/v1662139445/Web%20Dev%20Projects/image_60_1_1_jwn4un.webp"
+                 image="https://res.cloudinary.com/dckwf6med/image/upload/v1662153972/Web%20Dev%20Projects/Mask_group_4_1_wfmzgl.webp"
                  />
         
         <Footer/></div>
