@@ -4,7 +4,7 @@ function hero() {
   return (
     <>
     <div className='max-w-7xl mx-auto'>
-        <h1 className='!leading-tight text-white text-left px-5 mt-28 sm:mt-36 text-5xl xsm:text-3xl sm:text-4xl md:6xl md-lg:text-4xl lg:text-5xl font-bold stroke-removal'>
+        <h1 className='!leading-tight text-white text-left px-5 mt-28 sm:mt-28 2xl:mt-36 text-5xl xsm:text-3xl sm:text-4xl md:6xl md-lg:text-4xl lg:text-5xl font-bold stroke-removal'>
         READ OUR FITNESS, NUTRITION <br/>
 AND LIFESTYLE BLOGS
         </h1>
