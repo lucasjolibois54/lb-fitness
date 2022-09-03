@@ -17,12 +17,11 @@ function subHero() {
         our future plans for the platform. This is only the beginning.
       </p>
       <div className="mt-7 text-center">
-        <Link
+      <Link  href="/"><span
           className="text-pink py-2 px-10 rounded-full border-gray-stroke border-2 cursor-pointer"
-          href="/"
         >
           Skip introduction
-        </Link>
+        </span></Link>
       </div>
       <div className=" pl-5 pr-5 mt-20 flex justify-center items-center">
         <video
