@@ -4,7 +4,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="planner-x.netlify.app">
+  <a href="https://lb-fitness.vercel.app/">
     <img src="https://res.cloudinary.com/dckwf6med/image/upload/v1661260690/Web%20Dev%20Projects/image_40_aq6zob.png" alt="Logo" width="auto" height="150">
   </a>
 
@@ -16,7 +16,7 @@
     <a href="https://github.com/lucasjolibois54/lb-fitness/"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <!--<a href="https://unvoit.netlify/">View Demo</a>-->
+    <a href="https://lb-fitness.vercel.app/">View Demo</a>
   </p>
 </div>
 
