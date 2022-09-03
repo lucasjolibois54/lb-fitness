@@ -2,12 +2,12 @@ import { useUser } from '@auth0/nextjs-auth0';
 import { useState } from 'react';
 
 function heroOverview() {
-  const [state, setState] = useState();
+  /*const [state, setState] = useState();
   const toggleAccordion = () => {
     setState(state === "" ? "bg-green-500" : "")
   }
 
-  const { user } = useUser();
+ /* const { user } = useUser();*/
   return (
     <>
     <div className='max-w-7xl mx-auto'>
@@ -17,7 +17,7 @@ function heroOverview() {
               WELCOME TO THE OVERVIEW PAGE{" "}
         <span className=" text-2xl xsm:text-2xl sm:text-4xl md-lg:text-5xl lg:text-6xl stroke-title">
           <br />
-            {user.name}{" "} 
+           {/* {user.name}{" "} */}
         </span>
       </h2>
     </div>
