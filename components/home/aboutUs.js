@@ -7,7 +7,7 @@ function aboutUs() {
             <div className="my-auto mx-auto flex flex-col-reverse md:flex-row-reverse mt-0 mb-0 max-w-7xl  md:p-16">
                 <div className="mx-auto float-righ">
                     <img alt="Image" className="w-11/12 hidden sm:block" src="https://res.cloudinary.com/dckwf6med/image/upload/v1661295966/Web%20Dev%20Projects/Group_75_1_yyn9db.png" />
-                    <img alt="Image" className="w-full px-5 sm:hidden rounded-xl" src="https://res.cloudinary.com/dckwf6med/image/upload/v1662239806/Web%20Dev%20Projects/Mask_group_10_1_mdempb.webp" />
+                    <img alt="Image" className="w-full px-5 sm:hidden rounded-xl" src="https://res.cloudinary.com/dckwf6med/image/upload/v1662241025/Web%20Dev%20Projects/Mask_group_11_1_dikkhr.webp" />
 
                 </div>
                 <div className="text-center md:text-left mx-5 md:mx-0 mb-10 md:mb-0 flex flex-col justify-center">
