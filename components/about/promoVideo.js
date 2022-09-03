@@ -12,7 +12,7 @@ const promoVideo = () => {
                         Play Video
                     </a></div>
                      
-                    <img className='w-full' src="https://res.cloudinary.com/dckwf6med/image/upload/v1661524868/Web%20Dev%20Projects/Group_91_2_cvdd5n.png" />
+                    <img alt="Image"  className='w-full' src="https://res.cloudinary.com/dckwf6med/image/upload/v1661524868/Web%20Dev%20Projects/Group_91_2_cvdd5n.png" />
                     {/* <video poster={"https://res.cloudinary.com/dckwf6med/image/upload/v1661524868/Web%20Dev%20Projects/Group_91_2_cvdd5n.png"} width="100%" src="https://res.cloudinary.com/dckwf6med/video/upload/v1653573782/Portfolio/Lucas_Jolibois_Portfolio_Video_k1dup2.mp4" 
          css={`
          height: 95vh;
