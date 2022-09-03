@@ -20,7 +20,6 @@ function onInstagram() {
             alt="Image" className="planimg"
             src="https://res.cloudinary.com/dckwf6med/image/upload/v1661531340/Web%20Dev%20Projects/Rectangle_745_1_xhum5q.webp"
           />
-          {/* <p className="plantitle text-center">Ultimate bodybuilding plan</p> */}
           </div></a>
         </div>
 
@@ -29,7 +28,6 @@ function onInstagram() {
             alt="Image" className="planimg"
             src="https://res.cloudinary.com/dckwf6med/image/upload/v1661538003/Web%20Dev%20Projects/Rectangle-745-_2_-_2__otmc4x.webp"
           />
-          {/* <p className="plantitle text-center">Ultimate bodybuilding plan</p> */}
           </div></a>
         </div>
 
@@ -38,7 +36,6 @@ function onInstagram() {
             alt="Image" className="planimg"
             src="https://res.cloudinary.com/dckwf6med/image/upload/v1661538104/Web%20Dev%20Projects/Rectangle-745-_3_-_1__qxgmvy.webp"
           />
-          {/* <p className="plantitle text-center">Ultimate bodybuilding plan</p> */}
           </div></a>
         </div>
       </div>
