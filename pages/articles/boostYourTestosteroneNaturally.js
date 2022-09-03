@@ -36,7 +36,7 @@ function boostYourTestosteroneNaturally() {
          paragraph="Research shows that lifting heavier weights is the best way of exercise to boost your testosterone naturally. As you begin to increase you muscle mass, it will trigger the body to produce more testosterone. You focus on your bigger muscle groups, like the chest, back, quadriceps and hamstrings. This doesn’t mean you should ignore the smaller muscle groups though. Working on smaller muscle groups as well, will strenghen your entire body whcih will help prevent injuries and speeds up your metabolism."
          />
          <BlogImage
-                 image="https://res.cloudinary.com/dckwf6med/image/upload/v1662153402/Web%20Dev%20Projects/Mask_group_2_2_ajp5hg.webp"
+                 image="https://res.cloudinary.com/dckwf6med/image/upload/v1662212044/Web%20Dev%20Projects/ryan-snaadt-RhER4AYOKGY-unsplash_1_1_cupjwt.webp"
                  />
 
 <SubTextSection
@@ -44,7 +44,7 @@ function boostYourTestosteroneNaturally() {
          paragraph="Research has shown that eating well is key to maintaining testosterone levels, as well as increasing them. Low testosterone levels and being overweight may contribute to a variety of inflammatory conditions and impaired neurological function. The best is to include whole foods and meat which offers a good balance of proteins, carbs and fats. Eating healthy and nutritious diet can keep all hormones levels balanced and promote optimal long-term health and increased testosterone."
          />
           <BlogImage
-                 image="https://res.cloudinary.com/dckwf6med/image/upload/v1662153757/Web%20Dev%20Projects/Mask_group_3_1_lt7t4s.webp"
+                 image="https://res.cloudinary.com/dckwf6med/image/upload/v1662212886/Web%20Dev%20Projects/ca-creative-bpPTlXWTOvg-unsplash_1_1_a90ioo.webp"
                  />
 
 <SubTextSection
@@ -52,7 +52,7 @@ function boostYourTestosteroneNaturally() {
          paragraph="Drinking too much alcohol eventually decreases blood testosterone in men due an internal effect on the testicular level. Drinking alcohol also results a release of certain endorphins. While these endorphins might feel pleasant and relaxing, they can also interfere with the testosterone synthesis. Generally speaking, one or two drinks occasionally shouldn’t impact the testosterone levels too much, just remember too to drink excessively."
          />
           <BlogImage
-                 image="https://res.cloudinary.com/dckwf6med/image/upload/v1662153972/Web%20Dev%20Projects/Mask_group_4_1_wfmzgl.webp"
+                 image="https://res.cloudinary.com/dckwf6med/image/upload/v1662212588/Web%20Dev%20Projects/taylor-brandon-suI00gcXNwk-unsplash_1_1_zxdino.webp"
                  />
       
 
