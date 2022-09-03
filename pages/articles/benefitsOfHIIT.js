@@ -28,7 +28,8 @@ function benefitsOfHIIT() {
                 paragraph="HIIT workout usually takes between 10 to 20 minutes, making it the perfect exercise for people with “no time in their hands”. HIIT stands for High-Intensity Interval Training and is a combination between brief and very-high intensity cardio exercises, followed by an equal or longer “rest”. Often the rest-time is a repetition of the same high-intensity exercise, but with very little intensity. Next, let’s look into different types of high-intensity interval exercises."
 />
 
-        <TextSlider/>
+<TextSlider
+        text="HIIT WORKOUT EXAMPLES HIIT WORKOUT EXAMPLES HIIT WORKOUT EXAMPLE"/>
 
         <SubTextSection
          title="1.- The TRX HIIT Circuit"
