@@ -3,9 +3,16 @@ import React from "react";
 function aboutVideo() {
   return (
     <div>
-      <h2 id="about-us-video" className=" !leading-tight sm:pb-5 text-white text-center mt-48 pt-20  text-3xl xsm:text-5xl sm:text-5xl md-lg:text-7xl lg:text-6xl font-bold stroke-removal">
+      <h2 id="about-us-video" className=" hidden sm:block !leading-tight sm:pb-5 text-white text-center mt-48 pt-20  text-3xl xsm:text-5xl sm:text-5xl md-lg:text-7xl lg:text-6xl font-bold stroke-removal">
       LEARN MORE ABOUT{" "}
         <span className="stroke-title text-5xl xsm:text-4xl sm:text-5xl md-lg:text-6xl lg:text-6xl">
+          <br />
+          LB FITNESS{" "}
+        </span>
+      </h2>
+      <h2 id="about-us-video" className=" sm:hidden !leading-tight sm:pb-5 text-white text-center mt-48 pt-20  text-3xl xsm:text-5xl sm:text-5xl md-lg:text-7xl lg:text-6xl font-bold stroke-removal">
+      LEARN ABOUT{" "}
+        <span className="stroke-title text-5xl xsm:text-5xl sm:text-5xl md-lg:text-6xl lg:text-6xl">
           <br />
           LB FITNESS{" "}
         </span>
