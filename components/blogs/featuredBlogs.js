@@ -17,8 +17,8 @@ function featuredBlogs() {
     </div>
 
     <div className="p-5 sm:p-2 text-center bg-transparent  sm:col-start-2 sm:col-end-4">
-    <img className='w-full hidden sm:block' src='https://res.cloudinary.com/dckwf6med/image/upload/v1661808920/Web%20Dev%20Projects/image_62_1_tbz8z1.webp'/>
-    <img className='w-full  sm:hidden' src='https://res.cloudinary.com/dckwf6med/image/upload/v1661808957/Web%20Dev%20Projects/image_61_1_k3629a.webp'/>
+    <img className='w-full hidden sm:block' src='https://res.cloudinary.com/dckwf6med/image/upload/v1662213064/Web%20Dev%20Projects/Mask_group_7_1_da5tie.webp'/>
+    <img className='w-full  sm:hidden' src='https://res.cloudinary.com/dckwf6med/image/upload/v1662213126/Web%20Dev%20Projects/Mask_group_8_1_e0c1mp.webp'/>
     <p className='mt-5 text-left text-gray-subtext text-sm px-2 font-extralight'>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters.</p>
     <p className='mt-2 text-left text-pink text-sm px-2 font-extralight'>Read more</p>
     </div>
