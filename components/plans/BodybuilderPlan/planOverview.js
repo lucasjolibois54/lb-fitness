@@ -1,4 +1,5 @@
 import React from "react";
+import Link from "next/link";
 
 function planOverview() {
   return (
@@ -6,11 +7,11 @@ function planOverview() {
       <div className="mt-20 mb-20  max-w-7xl  mx-auto flex flex-col sm:flex-row items-center justify-center sm:space-x-14">
         <div className="w-4/6 sm:w-3/12 space-y-4">
           
-         <a href="/membersonly/bodybuilderPlan"><div className="transition duration-300 group transform hover:-translate-y-3 hover:shadow-2xl rounded-2xl cursor-pointer"><img
+         <Link href="/membersonly/bodybuilderPlan"><div className="transition duration-300 group transform hover:-translate-y-3 hover:shadow-2xl rounded-2xl cursor-pointer"><img
             className="planimg"
             src="https://res.cloudinary.com/dckwf6med/image/upload/v1661359671/Web%20Dev%20Projects/Group_78_1_dlxnfg.webp"
           />
-          <p className="plantitle text-center">Ultimate bodybuilding plan</p></div></a>
+          <p className="plantitle text-center">Ultimate bodybuilding plan</p></div></Link>
         </div>
 
         <div className="w-4/6 sm:w-3/12 space-y-4">
