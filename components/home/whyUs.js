@@ -1,3 +1,4 @@
+import Link from 'next/link'
 
 function whyUs() {
     return (
@@ -11,9 +12,9 @@ function whyUs() {
                 <p className="text-base md:text-lg py-5 lg:px-24 lg:pl-0 lg:pr-20 max-w-2xl text-gray-400 mt-5">
                 LB Fitness is the best free-to-use fitness platform available on the internet, containing workout &amp; diet plans, fitness related blogs, quizzes to help you achieve your goals, and so much more. Sign up to get started!                </p>
                 <div className="mt-4">
-                    <a  href="/api/auth/login" className="text-pink py-2 px-10 rounded-full border-gray-stroke border-2 cursor-pointer">
+                    <Link  href="/api/auth/login" className="text-pink py-2 px-10 rounded-full border-gray-stroke border-2 cursor-pointer">
                         Sign up
-                    </a></div>
+                    </Link></div>
             </div>
         </div>
 
