@@ -4,7 +4,7 @@ function onInstagram() {
   return (
     <>
 
-    <div className='max-w-5xl mx-auto mt-48'>
+    <div className='max-w-5xl mx-auto mt-36'>
     <div className='e mt-5 px-5'>
         <h3 className='leading-tight mt-4 text-white text-4xl xsm:text-4xl pr-7 sm:text-4xl md:6xl md-lg:text-5xl lg:text-6xl font-bold stroke-removal'>&#47;&#47; ON INSTAGRAM</h3>
         <p className="text-base font-light md:text-lg py-5 lg:px-24 lg:pl-0 max-w-2xl lg:pr-20 text-gray-400 mt-0">
