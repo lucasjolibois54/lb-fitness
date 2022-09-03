@@ -16,7 +16,7 @@ function heroOverview() {
               WELCOME TO THE OVERVIEW PAGE{" "}
         <span className=" text-2xl xsm:text-2xl sm:text-4xl md-lg:text-5xl lg:text-6xl stroke-title">
           <br />
-           {user.name}{" "}
+           {/* {user.name}{" "} */}
         </span>
       </h2>
     </div>
