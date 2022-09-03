@@ -6,7 +6,8 @@ function heroOverview() {
   const toggleAccordion = () => {
     setState(state === "" ? "bg-green-500" : "")
   }*/
-  const { user } = useUser();
+  
+ /* const { user } = useUser();*/
   return (
     <>
     <div className='max-w-7xl mx-auto'>
