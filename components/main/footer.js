@@ -1,4 +1,5 @@
 import React from "react";
+import Link from 'next/link'
 
 function footer() {
   return (
@@ -12,28 +13,28 @@ function footer() {
             more.
         </p>
         <div className="flex space-x-2 mt-7 mb-8 md:mb-0">
-        <a target="blank" href="https://www.instagram.com/lbfitness.eu/" ><img className="w-7/12" src="https://res.cloudinary.com/dckwf6med/image/upload/v1661361428/Work-%20GS/svg/Instagram_-_Negative_isdu92.svg"/></a>
-          <a target="blank" href="https://github.com/lucasjolibois54/lb-fitness" ><img className="w-7/12" src="https://res.cloudinary.com/dckwf6med/image/upload/v1661361428/Work-%20GS/svg/Github_-_Negative_eecs8r.svg"/></a>
+        <Link target="blank" href="https://www.instagram.com/lbfitness.eu/" ><img className="w-7/12" src="https://res.cloudinary.com/dckwf6med/image/upload/v1661361428/Work-%20GS/svg/Instagram_-_Negative_isdu92.svg"/></Link>
+          <Link target="blank" href="https://github.com/lucasjolibois54/lb-fitness" ><img className="w-7/12" src="https://res.cloudinary.com/dckwf6med/image/upload/v1661361428/Work-%20GS/svg/Github_-_Negative_eecs8r.svg"/></Link>
           {/* <p>YT</p> */}
         </div>
       </div>
       <div className="hidden sm:block w-2/12 -mt-5 space-y-4">
-        <p className="mt-6 text-gray-200 font-light ml-3"><a href="/api/auth/logout" className="hover:text-footer-hover cursor-pointer">
-          Home</a>
+        <p className="mt-6 text-gray-200 font-light ml-3"><Link href="/api/auth/logout" className="hover:text-footer-hover cursor-pointer">
+          Home</Link>
         </p>
-        <p className=" text-gray-200 font-light ml-3"><a className="hover:text-footer-hover cursor-pointer" href="/about">About us</a></p>
-        <p className=" text-gray-200 font-light ml-3"><a className="hover:text-footer-hover cursor-pointer" href="/api/auth/login">Login &amp; Signup</a></p>
+        <p className=" text-gray-200 font-light ml-3"><Link className="hover:text-footer-hover cursor-pointer" href="/about">About us</Link></p>
+        <p className=" text-gray-200 font-light ml-3"><Link className="hover:text-footer-hover cursor-pointer" href="/api/auth/login">Login &amp; Signup</Link></p>
       </div>
 
       <div className="hidden sm:block w-2/12 -mt-5 space-y-4">
-        <p className="mt-6 text-gray-200 font-light ml-3"><a className="hover:text-footer-hover cursor-pointer" href="/membersonly/introduction">Introduction</a></p>
-        <p className=" text-gray-200 font-light ml-3"><a className="hover:text-footer-hover cursor-pointer" href="/api/auth/login">Plan Overview</a></p>
-        <p className=" text-gray-200 font-light ml-3"><a className="hover:text-footer-hover cursor-pointer" href="/blogs">Blog Overview</a></p>
+        <p className="mt-6 text-gray-200 font-light ml-3"><Link className="hover:text-footer-hover cursor-pointer" href="/membersonly/introduction">Introduction</Link></p>
+        <p className=" text-gray-200 font-light ml-3"><Link className="hover:text-footer-hover cursor-pointer" href="/api/auth/login">Plan Overview</Link></p>
+        <p className=" text-gray-200 font-light ml-3"><Link className="hover:text-footer-hover cursor-pointer" href="/blogs">Blog Overview</Link></p>
       </div>
 
       <div className="hidden sm:block w-2/12 -mt-5 space-y-4">
-        <p className="mt-6 text-gray-200 font-light ml-3"><a className="hover:text-footer-hover cursor-pointer" href="/about/#faq-section">FAQ'S</a></p>
-        <p className=" text-gray-200 font-light ml-3"><a className="hover:text-footer-hover cursor-pointer" href="/membersonly/meals">Meal Plans</a></p>
+        <p className="mt-6 text-gray-200 font-light ml-3"><Link className="hover:text-footer-hover cursor-pointer" href="/about/#faq-section">FAQ'S</Link></p>
+        <p className=" text-gray-200 font-light ml-3"><Link className="hover:text-footer-hover cursor-pointer" href="/membersonly/meals">Meal Plans</Link></p>
         <p className=" text-gray-200 font-light ml-3">Find Your Plan</p>
       </div>
     </div>
@@ -44,22 +45,22 @@ function footer() {
       <div className="px-6 -mt-10 pb-20  max-w-7xl  mx-auto flex">
 
       <div className=" sm:hidden w-4/12 space-y-4">
-        <p className="mt-6 text-gray-200 font-light ml-3"><a href="/api/auth/logout" className="hover:text-footer-hover cursor-pointer">
-          Home</a>
+        <p className="mt-6 text-gray-200 font-light ml-3"><Link href="/api/auth/logout" className="hover:text-footer-hover cursor-pointer">
+          Home</Link>
         </p>
-        <p className=" text-gray-200 font-light ml-3"><a className="hover:text-footer-hover cursor-pointer" href="/about">About us</a></p>
-        <p className=" text-gray-200 font-light ml-3"><a className="hover:text-footer-hover cursor-pointer" href="/api/auth/login">Login/ Signup</a></p>
+        <p className=" text-gray-200 font-light ml-3"><Link className="hover:text-footer-hover cursor-pointer" href="/about">About us</Link></p>
+        <p className=" text-gray-200 font-light ml-3"><Link className="hover:text-footer-hover cursor-pointer" href="/api/auth/login">Login/ Signup</Link></p>
       </div>
 
       <div className=" sm:hidden w-4/12 space-y-4">
-        <p className="mt-6 text-gray-200 font-light ml-3"><a className="hover:text-footer-hover cursor-pointer" href="/membersonly/introduction">Introduction</a></p>
-        <p className=" text-gray-200 font-light ml-3"><a className="hover:text-footer-hover cursor-pointer" href="/api/auth/login">Plan Overview</a></p>
-        <p className=" text-gray-200 font-light ml-3"><a className="hover:text-footer-hover cursor-pointer" href="/blogs">Blog Overview</a></p>
+        <p className="mt-6 text-gray-200 font-light ml-3"><Link className="hover:text-footer-hover cursor-pointer" href="/membersonly/introduction">Introduction</Link></p>
+        <p className=" text-gray-200 font-light ml-3"><Link className="hover:text-footer-hover cursor-pointer" href="/api/auth/login">Plan Overview</Link></p>
+        <p className=" text-gray-200 font-light ml-3"><Link className="hover:text-footer-hover cursor-pointer" href="/blogs">Blog Overview</Link></p>
       </div>
 
       <div className=" sm:hidden w-4/12 space-y-4">
-        <p className="mt-6 text-gray-200 font-light ml-3"><a className="hover:text-footer-hover cursor-pointer" href="/about/#faq-section">FAQ'S</a></p>
-        <p className=" text-gray-200 font-light ml-3"><a className="hover:text-footer-hover cursor-pointer" href="/membersonly/meals">Meal Plans</a></p>
+        <p className="mt-6 text-gray-200 font-light ml-3"><Link className="hover:text-footer-hover cursor-pointer" href="/about/#faq-section">FAQ'S</Link></p>
+        <p className=" text-gray-200 font-light ml-3"><Link className="hover:text-footer-hover cursor-pointer" href="/membersonly/meals">Meal Plans</Link></p>
         <p className=" text-gray-200 font-light ml-3">Find Your Plan</p>
       </div>
     </div>
