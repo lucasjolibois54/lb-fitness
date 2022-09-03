@@ -13,8 +13,8 @@ function onInstagram() {
 
 
 
-    <div className="mt-20 mb-20  mx-auto px-5 flex flex-col sm:flex-row sm:space-x-14">
-        <div className="w-4/6 sm:w-4/12 space-y-4">
+    <div className="mt-20 sm:mt-0 mb-20  mx-auto px-5 flex flex-col sm:flex-row sm:space-x-14">
+        <div className="w-4/6 mx-auto my-5 sm:w-4/12 space-y-4">
           
         <a href="https://www.instagram.com/lbfitness.eu/" rel="noreferrer" target="_blank"><div className="transition duration-300 group transform hover:-translate-y-3 hover:shadow-2xl rounded-2xl cursor-pointer"><img
             alt="Image" className="planimg"
@@ -24,7 +24,7 @@ function onInstagram() {
           </div></a>
         </div>
 
-        <div className="w-4/6 sm:w-4/12 space-y-4">
+        <div className="w-4/6 mx-auto my-5 sm:w-4/12 space-y-4">
         <a href="https://www.instagram.com/lbfitness.eu/" rel="noreferrer" target="_blank"><div className="transition duration-300 group transform hover:-translate-y-3 hover:shadow-2xl rounded-2xl cursor-pointer"><img
             alt="Image" className="planimg"
             src="https://res.cloudinary.com/dckwf6med/image/upload/v1661538003/Web%20Dev%20Projects/Rectangle-745-_2_-_2__otmc4x.webp"
@@ -33,7 +33,7 @@ function onInstagram() {
           </div></a>
         </div>
 
-        <div className="w-4/6 sm:w-4/12 space-y-4">
+        <div className="w-4/6 mx-auto my-5 sm:w-4/12 space-y-4">
         <a href="https://www.instagram.com/lbfitness.eu/" rel="noreferrer" target="_blank"><div className="transition duration-300 group transform hover:-translate-y-3 hover:shadow-2xl rounded-2xl cursor-pointer"><img
             alt="Image" className="planimg"
             src="https://res.cloudinary.com/dckwf6med/image/upload/v1661538104/Web%20Dev%20Projects/Rectangle-745-_3_-_1__qxgmvy.webp"
