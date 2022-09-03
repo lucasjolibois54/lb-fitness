@@ -13,9 +13,9 @@ function aboutUs() {
                     <p className="text-base md:text-lg py-5 lg:px-24 lg:pl-0 lg:pr-20 max-w-2xl text-gray-400 mt-5">
                     LB Fitness was established to help you be the best you possible. We believe you shouldn&apos;t have to pay for that, which is why it is totally free. Everybody has different goals, that&apos;s why we have different plans, giving anyone to oppotunity to get started. Whether you&apos;re experienced or is just getting started. Sign up to get started!                    </p>
                     <div className="mt-4 space-x-3">
-                        <Link href="/about" className=" text-pink py-2 px-10 rounded-full border-gray-stroke border-2 cursor-pointer">
+                        <a href="/about" className=" text-pink py-2 px-10 rounded-full border-gray-stroke border-2 cursor-pointer">
                             Learn more
-                        </Link></div>
+                        </a></div>
                 </div>
             </div>
 
