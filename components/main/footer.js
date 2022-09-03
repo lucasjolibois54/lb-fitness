@@ -13,8 +13,8 @@ function footer() {
             more.
         </p>
         <div className="flex space-x-5 mt-5 mb-8 md:mb-0">
-        <Link target="blank" href="https://www.instagram.com/lbfitness.eu/" ><img className="w-1/12 cursor-pointer" src="https://res.cloudinary.com/dckwf6med/image/upload/v1661361428/Work-%20GS/svg/Instagram_-_Negative_isdu92.svg"/></Link>
-          <Link target="blank" href="https://github.com/lucasjolibois54/lb-fitness" ><img className="w-1/12 cursor-pointer" src="https://res.cloudinary.com/dckwf6med/image/upload/v1661361428/Work-%20GS/svg/Github_-_Negative_eecs8r.svg"/></Link>
+        <Link target="blank" href="https://www.instagram.com/lbfitness.eu/" ><img alt="Icon" className="w-1/12 cursor-pointer" src="https://res.cloudinary.com/dckwf6med/image/upload/v1661361428/Work-%20GS/svg/Instagram_-_Negative_isdu92.svg"/></Link>
+          <Link target="blank" href="https://github.com/lucasjolibois54/lb-fitness" ><img alt="Icon" className="w-1/12 cursor-pointer" src="https://res.cloudinary.com/dckwf6med/image/upload/v1661361428/Work-%20GS/svg/Github_-_Negative_eecs8r.svg"/></Link>
           {/* <p>YT</p> */}
         </div>
       </div>

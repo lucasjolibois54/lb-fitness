@@ -11,11 +11,11 @@ function planHero() {
               <br /> GET STARTED <br />{" "}
               <span className="stroke-title">AT LB FITNESS</span>
             </h2>
-            <img
+            <img alt="Image"
               className="bg hidden sm:block h-screen w-screen"
               src="https://res.cloudinary.com/dckwf6med/image/upload/v1661362804/Web%20Dev%20Projects/Group_78_2_1_gqtno3.webp"
             />
-            <img
+            <img alt="Image"
               className="bg sm:hidden h-screen w-screen"
               src="https://res.cloudinary.com/dckwf6med/image/upload/v1661362935/Web%20Dev%20Projects/Mask_group_1_ctnnyu.webp"
             />

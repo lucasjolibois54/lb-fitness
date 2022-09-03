@@ -11,11 +11,11 @@ function dayThreeHero() {
               <br /> DAY 3 OF <br />{" "}
               <span className="stroke-title">THE PLAN</span>
             </h2>
-            <img
+            <img alt="Image"
               className="bg hidden sm:block h-screen w-screen"
               src="https://res.cloudinary.com/dckwf6med/image/upload/v1661385888/Web%20Dev%20Projects/AnyConv.com__Group_84_1_g3uypm.webp"
             />
-            <img
+            <img alt="Image"
               className="bg sm:hidden h-screen w-screen"
               src="https://res.cloudinary.com/dckwf6med/image/upload/v1661385975/Web%20Dev%20Projects/AnyConv.com__Group_85_1_uqhbik.webp"
             />

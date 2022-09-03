@@ -9,7 +9,7 @@ function hero() {
         READ OUR FITNESS, NUTRITION <br/>
 AND LIFESTYLE BLOGS
         </h1>
-        <Link href='/articles/benefitsOfHIIT'><img className='mt-7 px-5 cursor-pointer' src='https://res.cloudinary.com/dckwf6med/image/upload/v1661807512/Web%20Dev%20Projects/image_60_1_vx4bfn.webp'/></Link>
+        <Link href='/articles/benefitsOfHIIT'><img alt="Image" className='mt-7 px-5 cursor-pointer' src='https://res.cloudinary.com/dckwf6med/image/upload/v1661807512/Web%20Dev%20Projects/image_60_1_vx4bfn.webp'/></Link>
         <p className='mt-5 px-5 sm:w-2/3 font-extralight'>HIIT training is a perfect way not only to burn calories, but also to burn fat. After your workout, all of that intense exertion kicks your body&apos;s repair cycle into hyperdrive. This means that your body will ...</p>
         <hr className='mt-7 sm:mt-9 px-5'/>
     </div>

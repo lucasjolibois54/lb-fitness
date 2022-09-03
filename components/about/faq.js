@@ -3,7 +3,7 @@ import React from 'react'
 function faq() {
   return (
     <>
-        <img className="absolute -ml-52" src="https://res.cloudinary.com/dckwf6med/image/upload/v1661523827/Web%20Dev%20Projects/Ellipse-100-_1__jahl4k.webp"/>
+        <img alt="Image" className="absolute -ml-52" src="https://res.cloudinary.com/dckwf6med/image/upload/v1661523827/Web%20Dev%20Projects/Ellipse-100-_1__jahl4k.webp"/>
 
     <div id='faq-section' className='max-w-5xl mx-auto relative z-50'>
     <h2 className='!leading-tight mb-20 text-white text-center mt-20 sm:mt-20 text-4xl xsm:text-5xl sm:text-4xl md:6xl md-lg:text-5xl lg:text-7xl font-bold stroke-removal'>

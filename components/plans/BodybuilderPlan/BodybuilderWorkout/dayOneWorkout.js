@@ -16,7 +16,7 @@ function dayOneWorkout(props) {
             <p className="text-pink py-2">{props.sets}</p>
           </div>
         </div>
-        <img className="sm:w-3/6 mt-6 sm:mt-0" src={props.image} />
+        <img alt="Image" className="sm:w-3/6 mt-6 sm:mt-0" src={props.image} />
       </div>
     </div>
   );

@@ -11,11 +11,11 @@ function dayFourHero() {
               <br /> DAY 4 OF <br />{" "}
               <span className="stroke-title">THE PLAN</span>
             </h2>
-            <img
+            <img alt="Image"
               className="bg hidden sm:block h-screen w-screen"
               src="https://res.cloudinary.com/dckwf6med/image/upload/v1661387066/Web%20Dev%20Projects/AnyConv.com__Group_86_1_fz5b8i.webp"
             />
-            <img
+            <img alt="Image"
               className="bg sm:hidden h-screen w-screen"
               src="https://res.cloudinary.com/dckwf6med/image/upload/v1661387295/Web%20Dev%20Projects/AnyConv.com__Group_87_1_psdt6l.webp"
             />
