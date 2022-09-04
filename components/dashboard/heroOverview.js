@@ -1,7 +1,7 @@
 import { useUser } from '@auth0/nextjs-auth0';
 import { useState } from 'react';
 
-export default function heroOverview() {
+export default function HeroOverview() {
   /*const [state, setState] = useState();
   const toggleAccordion = () => {
     setState(state === "" ? "bg-green-500" : "")
