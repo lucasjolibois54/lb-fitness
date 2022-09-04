@@ -1,8 +1,13 @@
 import React from 'react'
+import Hero from '../../components/meals/hero'
+import HomeHeader from '../../components/main/homeHeader'
 
 function meals() {
   return (
-    <div>meals</div>
+    <div className='h-screen'>
+      <HomeHeader/>
+      <Hero/>
+    </div>
   )
 }
 
