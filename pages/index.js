@@ -32,8 +32,8 @@ export default function Home() {
         <HeroOverview/>
         <Overview/>
         <Footer/>
-         <div>
-        Welcome {user.name}! {/*<a href="/api/auth/logout">Logout</a>*/}</div> 
+        {/* <div>
+        Welcome {user.name}! <a href="/api/auth/logout">Logout</a></div> */}
       </div>
     );
   }
