@@ -13,7 +13,7 @@ import AboutVideo from '../components/about/aboutVideo';
 function about() {
   return (
     <div className=''>
-        <Nav/>
+        {/*<Nav/>*/}
         <HomeHeader/>
         <TempHero/>
         <AboutVideo/>
