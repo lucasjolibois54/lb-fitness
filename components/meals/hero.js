@@ -2,10 +2,11 @@ import React from 'react'
 
 function hero() {
   return (
-    <div className='max-w-7xl mx-auto'>
-        <img className='hidden sm:block absolute h-5/6 top-0 right-0' src='https://res.cloudinary.com/dckwf6med/image/upload/v1662301819/Web%20Dev%20Projects/Vector_1_1_2_zvwdoy.webp' />
+    <>
+    <div className='max-w-7xl mx-auto sm:pl-7'>
         <img className='sm:hidden absolute w-screen' src='https://res.cloudinary.com/dckwf6med/image/upload/v1662303071/Web%20Dev%20Projects/Mask_group_13_1_kz9szg.webp' />
-        <h1 className=" pt-36 text-white text-center sm:text-left relative sm:mt-40 text-5xl xsm:text-6xl sm:text-4xl md:6xl md-lg:text-5xl lg:text-8xl font-bold stroke-removal">
+        <div className='sm:flex pt-36 sm:mt-10'>
+        <h1 className=" text-white text-center sm:text-left relative text-5xl xsm:text-6xl sm:text-4xl md:6xl md-lg:text-5xl lg:text-6xl font-bold stroke-removal">
         READY TO{" "}
           <span className="stroke-title">
             <br />
@@ -14,7 +15,14 @@ function hero() {
             WAY TO FIT {" "}
           </span>
         </h1>
-    </div>
+
+        <p className='md:text-lg sm:ml-7 max-w-lg flex justify-end mt-3 text-left text-gray-subtext font-extralight'>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters.</p>  
+
+
+        </div>
+        </div>
+        <img className='hidden sm:block w-screen mt-20' src='https://res.cloudinary.com/dckwf6med/image/upload/v1662316256/Web%20Dev%20Projects/Mask-group-_14_-_1__y7veny.webp'/>
+    </>
   )
 }
 
