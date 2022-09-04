@@ -33,7 +33,7 @@ export default function Home() {
         <Overview/>
         <Footer/>
          <div>
-        Welcome {user.name}! <a href="/api/auth/logout">Logout</a></div> 
+        Welcome {user.name}! {/*<a href="/api/auth/logout">Logout</a>*/}</div> 
       </div>
     );
   }
