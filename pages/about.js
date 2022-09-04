@@ -1,4 +1,5 @@
 import HomeHeader from '../components/main/homeHeader';
+import Nav from '../components/main/nav';
 import Hero from '../components/about/hero';
 import TempHero from '../components/about/tempHero';
 import AboutUs from '../components/about/aboutUs';
@@ -12,6 +13,7 @@ import AboutVideo from '../components/about/aboutVideo';
 function about() {
   return (
     <div className=''>
+        <Nav/>
         <HomeHeader/>
         <TempHero/>
         <AboutVideo/>
