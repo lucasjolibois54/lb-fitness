@@ -17,7 +17,7 @@ function hero() {
           </span>
         </h1>
 <div className="my-auto">
-        <p className=' md:text-lg sm:ml-7 max-w-lg px-5 sm:px-0 text-center sm:flex sm:justify-end mt-3 sm:mt-0 sm:text-left text-gray-subtext font-extralight'>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters.</p>  
+        <p className=' md:text-lg sm:ml-7 max-w-lg px-5 sm:px-0 text-center sm:flex sm:justify-end mt-3 sm:mt-0 sm:text-left text-gray-subtext font-extralight'>Through this page, you will gain access to two things. Diet plans, and diet recipes. When scrolling down, you will first see the diet plan section. Every plan serves a different purpose. press on the i icon and see if it is something for you. We got everything, whether you are trying to gain more muscle mass, lose weight, or even if you are vegetarian. Every plan has a calorie calculator that you can use to see how much you should be eating on the specific plan.</p>  
         </div>
 
         </div>
