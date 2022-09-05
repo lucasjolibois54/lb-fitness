@@ -1,4 +1,5 @@
 import React from 'react'
+import Link from 'next/link'
 
 function subHero() {
   return (
@@ -13,12 +14,12 @@ function subHero() {
 
 
 
-    <div className="mt-5 sm:mt-0 mb-20  mx-auto px-5 flex flex-col sm:flex-row sm:space-x-14">
+    <div className="mt-5 sm:mt-0 mb-10  mx-auto px-5 flex flex-col sm:flex-row sm:space-x-14">
         <div className="w-full mx-auto my-5 sm:w-4/12 space-y-4">
           
         <a href="https://www.instagram.com/lbfitness.eu/" rel="noreferrer" target="_blank"><div className="transition duration-300 group transform hover:-translate-y-3 hover:shadow-2xl rounded-2xl cursor-pointer"><img
             alt="Image" className="planimg"
-            src="https://res.cloudinary.com/dckwf6med/image/upload/v1661531340/Web%20Dev%20Projects/Rectangle_745_1_xhum5q.webp"
+            src="https://res.cloudinary.com/dckwf6med/image/upload/v1662362266/Web%20Dev%20Projects/image-70-_1_-_1__hskhey.webp"
           />
           </div></a>
         </div>
@@ -26,7 +27,7 @@ function subHero() {
         <div className="w-full mx-auto my-5 sm:w-4/12 space-y-4">
         <a href="https://www.instagram.com/lbfitness.eu/" rel="noreferrer" target="_blank"><div className="transition duration-300 group transform hover:-translate-y-3 hover:shadow-2xl rounded-2xl cursor-pointer"><img
             alt="Image" className="planimg"
-            src="https://res.cloudinary.com/dckwf6med/image/upload/v1661538003/Web%20Dev%20Projects/Rectangle-745-_2_-_2__otmc4x.webp"
+            src="https://res.cloudinary.com/dckwf6med/image/upload/v1662362179/Web%20Dev%20Projects/image-69-_1__hdkvot.webp"
           />
           </div></a>
         </div>
@@ -34,12 +35,18 @@ function subHero() {
         <div className="w-full mx-auto my-5 sm:w-4/12 space-y-4">
         <a href="https://www.instagram.com/lbfitness.eu/" rel="noreferrer" target="_blank"><div className="transition duration-300 group transform hover:-translate-y-3 hover:shadow-2xl rounded-2xl cursor-pointer"><img
             alt="Image" className="planimg"
-            src="https://res.cloudinary.com/dckwf6med/image/upload/v1661538104/Web%20Dev%20Projects/Rectangle-745-_3_-_1__qxgmvy.webp"
+            src="https://res.cloudinary.com/dckwf6med/image/upload/v1662362266/Web%20Dev%20Projects/image-70-_1_-_1__hskhey.webp"
           />
           </div></a>
         </div>
       </div>
-
+      <div className="mt-7 text-center">
+      <Link  href="/"><span
+          className="text-pink py-2 px-10 rounded-full text-xl border-gray-stroke border-2 cursor-pointer"
+        >
+          See all plans
+        </span></Link>
+      </div>
 
    
     </div>
