@@ -4,7 +4,7 @@ import Link from 'next/link'
 function overview() {
   return (
     <>
-      <div className="mt-36 mb-20  max-w-7xl  mx-auto flex flex-col sm:flex-row items-center justify-center sm:space-x-14">
+      <div className="mt-16 sm:mt-36 mb-20  max-w-7xl  mx-auto flex flex-col sm:flex-row items-center justify-center sm:space-x-14">
         <div className="w-4/6 sm:w-3/12 space-y-4">
           
          <Link href="/membersonly/workoutPlans"><div className="transition duration-300 group transform hover:-translate-y-3 hover:shadow-2xl rounded-2xl cursor-pointer"><img
