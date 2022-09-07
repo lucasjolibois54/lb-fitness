@@ -56,7 +56,7 @@ const BurgerHeader = () => {      // variable with the component Header. () => m
 }
 
 
-function nav() {
+function Nav() {
     const { user, error, isLoading } = useUser();   
 
     return (                    //if auth is true, return <HeaderAuth/> else return <Header/>
@@ -72,4 +72,4 @@ function nav() {
 
 }
 
-export default nav
+export default Nav
