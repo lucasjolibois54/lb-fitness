@@ -1,4 +1,5 @@
 import React from 'react'
+import Link from 'next/link'
 
 function hero() {
   return (
@@ -17,7 +18,8 @@ function hero() {
           </span>
         </h1>
 <div className="my-auto">
-        <p className=' md:text-lg sm:ml-7 max-w-lg px-5 sm:px-0 text-center sm:flex sm:justify-end mt-3 sm:mt-0 sm:text-left text-gray-subtext font-extralight'>Through this page, you will gain access to two things. Diet plans, and diet recipes. When scrolling down, you will first see the diet plan section. Every plan serves a different purpose. press on the i icon and see if it is something for you. We got everything, whether you are trying to gain more muscle mass, lose weight, or even if you are vegetarian. Every plan has a calorie calculator that you can use to see how much you should be eating on the specific plan.</p>  
+        <p className=' md:text-lg sm:ml-7 max-w-lg px-5 sm:px-0 text-center sm:flex sm:justify-end mt-3 sm:mt-0 sm:text-left text-gray-subtext font-extralight'>Through this page, you will gain access to the diet plans. Every plan serves a different purpose. press on the i icon and see if it is something for you. We got everything, whether you are trying to gain more muscle mass, lose weight, or even if you are vegetarian. Every plan has a calorie calculator that you can use to see how much you should be eating on the specific plan.</p>  
+        <Link href='#subHeroFood'><p className='md:text-lg sm:ml-7 max-w-lg px-5 sm:px-0 sm:flex sm:justify-start mt-3 sm:mt-0 sm:text-left transition duration-300 group transform hover:-translate-y-1 hover:shadow-2xl cursor-pointer text-left text-pink text-sm font-extralight'>See more</p></Link>
         </div>
 
         </div>
