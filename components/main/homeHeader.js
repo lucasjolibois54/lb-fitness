@@ -33,7 +33,7 @@ const Header = () => {      // variable with the component Header. () => means i
     <Nav className=''/>
     </div> </div></div>*/
 
-    <div className=' zzz max-w-7xl mx-auto font-bold border-white/20 sm:border-none border-b'>
+    <div className=' zzz zzzz max-w-7xl mx-auto font-bold border-white/20 sm:border-none border-b'>
     <div className="block">
     <p href="/" className='z-50 text-center float-left text-2xl mx-7 sm:mr-20 -mb-7 mt-7 sm:mt-12  sm:text-3xl  pb-4 sm:pb-0'><Link href="/">LB│FITNESS</Link></p>
     <div className="block">
