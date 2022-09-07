@@ -22,6 +22,6 @@ const navpc = () => {
       </div>
     </div>
   );
-};
+}; 
 
 export default navpc
