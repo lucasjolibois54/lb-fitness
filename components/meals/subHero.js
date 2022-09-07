@@ -41,11 +41,11 @@ function subHero() {
         </div>
       </div>
       <div className="mt-7 text-center">
-      <Link  href="/"><span
+      {/* <Link  href="/"><span
           className="text-pink py-2 px-10 rounded-full text-xl border-gray-stroke border-2 cursor-pointer"
         >
           See all plans
-        </span></Link>
+        </span></Link> */}
       </div>
 
    
