@@ -331,7 +331,6 @@ body {
   display: block;
   position: fixed;
   top: 0;
-  overflow-y: hidden;
   left: -100%;
   width: 100vw;
   z-index: 1000;
