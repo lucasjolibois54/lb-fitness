@@ -6,7 +6,7 @@ function nav() {
     <>
 <div className="hamburger-menu">
     <input id="menu__toggle" type="checkbox" />
-    <label className="menu__btn" for="menu__toggle">
+    <label className="menu__btn" htmlFor="menu__toggle">
       <span></span>
     </label>
 
