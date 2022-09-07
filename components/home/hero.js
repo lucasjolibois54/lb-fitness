@@ -2,7 +2,7 @@
 
 function hero() {
     return (
-        <div className="p-0 pt-10 flex flex-col w-full lg:flex-row mb-4">
+        <div className="p-0 sm:pt-10 flex flex-col w-full lg:flex-row mb-4">
 
             {/* Max width container, center aligned, with some padding */}
             <div className="max-w-9xl mx-auto lg:px-0 sm:px-6 py-8">
