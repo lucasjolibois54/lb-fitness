@@ -5,7 +5,7 @@ import FeaturedBlogs from '../components/blogs/featuredBlogs'
 import Footer from '../components/main/footer';
 import { useUser } from '@auth0/nextjs-auth0';
 
-function blogs() {
+function Blogs() {
   const { user, error, isLoading } = useUser();
   /*console.log(user)*/
 
@@ -22,4 +22,4 @@ function blogs() {
   )
 }
 
-export default blogs
+export default Blogs
