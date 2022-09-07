@@ -11,11 +11,15 @@ function nav() {
     </label>
 
     <ul className="menu__box">
-      <li><p className="menu__item" >Home</p></li>
-      <li><p className="menu__item" >About</p></li>
-      <li><p className="menu__item" >Team</p></li>
-      <li><p className="menu__item" >Contact</p></li>
-      <li><p className="menu__item" >Twitter</p></li>
+      <li><p className="menu__item" ><Link className=" cursor-pointer" href="/">Home</Link></p></li>
+      <li><p className="menu__item" ><Link className=" cursor-pointer" href="/about">About us</Link></p></li>
+      <li><p className="menu__item" ><Link className=" cursor-pointer" href="/api/auth/login">Login &amp; Signup</Link></p></li>
+      <li><p className="menu__item" ><Link className="cursor-pointer" href="/membersonly/introduction">Introduction</Link></p></li>
+      <li><p className="menu__item" ><Link className=" cursor-pointer" href="/api/auth/login">Plan Overview</Link></p></li>
+      <li><p className="menu__item" ><Link className=" cursor-pointer" href="/blogs">Blog Overview</Link></p></li>
+      <li><p className="menu__item" ><Link className=" cursor-pointer" href="/about/#faq-section">FAQ&apos;S</Link></p></li>
+      <li><p className="menu__item" ><Link className=" cursor-pointer" href="/membersonly/meals">Meal Plans</Link></p></li>
+
     </ul>
   </div>
 </>
