@@ -18,7 +18,7 @@ function subHero() {
         <div className="w-full mx-auto my-5 sm:w-4/12 space-y-4">
           
         <a href="https://www.instagram.com/lbfitness.eu/" rel="noreferrer" target="_blank"><div className="transition duration-300 group transform hover:-translate-y-3 hover:shadow-2xl rounded-2xl cursor-pointer"><img
-            alt="Image" className="planimg"
+            alt="Image" className="planimg rounded-sm"
             src="https://res.cloudinary.com/dckwf6med/image/upload/v1662362266/Web%20Dev%20Projects/image-70-_1_-_1__hskhey.webp"
           />
           </div></a>
@@ -26,7 +26,7 @@ function subHero() {
 
         <div className="w-full mx-auto my-5 sm:w-4/12 space-y-4">
         <a href="https://www.instagram.com/lbfitness.eu/" rel="noreferrer" target="_blank"><div className="transition duration-300 group transform hover:-translate-y-3 hover:shadow-2xl rounded-2xl cursor-pointer"><img
-            alt="Image" className="planimg"
+            alt="Image" className="planimg rounded-sm"
             src="https://res.cloudinary.com/dckwf6med/image/upload/v1662362179/Web%20Dev%20Projects/image-69-_1__hdkvot.webp"
           />
           </div></a>
@@ -34,7 +34,7 @@ function subHero() {
 
         <div className="w-full mx-auto my-5 sm:w-4/12 space-y-4">
         <a href="https://www.instagram.com/lbfitness.eu/" rel="noreferrer" target="_blank"><div className="transition duration-300 group transform hover:-translate-y-3 hover:shadow-2xl rounded-2xl cursor-pointer"><img
-            alt="Image" className="planimg"
+            alt="Image" className="planimg rounded-sm"
             src="https://res.cloudinary.com/dckwf6med/image/upload/v1662362266/Web%20Dev%20Projects/image-70-_1_-_1__hskhey.webp"
           />
           </div></a>
