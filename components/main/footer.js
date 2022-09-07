@@ -22,7 +22,7 @@ function footer() {
         <p className="mt-6 text-gray-200 font-light ml-3 hover:text-footer-hover"><Link href="/api/auth/logout" className=" cursor-pointer">
           Home</Link>
         </p>
-        <p className=" text-gray-200 font-light ml-3 hover:text-footer-hover"><Link className=" cursor-pointer" href="/about">About us</Link></p>
+        <p className=" text-gray-200 font-light ml-3 hover:text-footer-hover"><Link className=" cursor-pointer" href="/about">About Us</Link></p>
         <p className=" text-gray-200 font-light ml-3 hover:text-footer-hover"><Link className=" cursor-pointer" href="/api/auth/login">Login &amp; Signup</Link></p>
       </div>
 
@@ -48,7 +48,7 @@ function footer() {
         <p className="mt-6 text-gray-200 font-light ml-3 hover:text-footer-hover"><Link href="/api/auth/logout" className=" cursor-pointer">
           Home</Link>
         </p>
-        <p className=" text-gray-200 font-light ml-3 hover:text-footer-hover"><Link className=" cursor-pointer" href="/about">About us</Link></p>
+        <p className=" text-gray-200 font-light ml-3 hover:text-footer-hover"><Link className=" cursor-pointer" href="/about">About Us</Link></p>
         <p className=" text-gray-200 font-light ml-3 hover:text-footer-hover"><Link className=" cursor-pointer" href="/api/auth/login">Login/ Signup</Link></p>
       </div>
 
