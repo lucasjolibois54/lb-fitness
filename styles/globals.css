@@ -355,3 +355,11 @@ body {
 .menu__item:hover {
   background-color: #CFD8DC;
 }
+
+
+
+@media only screen and (max-device-width: 480px) {
+  .menu__btn {
+    top: 41px;
+  }
+}
