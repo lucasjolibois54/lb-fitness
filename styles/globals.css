@@ -15,6 +15,9 @@ body {
   font-family: "Poppins", sans-serif;
   color: #fff;
   background: #0d0d0d;
+}
+
+.overscroll-on-text-over-x-axis{
   overflow-x: hidden;
 }
 
