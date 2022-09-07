@@ -1,7 +1,7 @@
 import { withPageAuthRequired } from '@auth0/nextjs-auth0';
 import { useUser } from '@auth0/nextjs-auth0';
 import Link from 'next/link'
-import Nav from "./nav"
+import Nav from "./Nav"
 
 const HeaderAuth = () => { 
   return (

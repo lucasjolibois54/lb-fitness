@@ -1,5 +1,5 @@
 import HomeHeader from '../components/main/homeHeader';
-import Nav from '../components/main/nav';
+import Nav from '../components/main/Nav';
 import Hero from '../components/about/hero';
 import TempHero from '../components/about/tempHero';
 import AboutUs from '../components/about/aboutUs';

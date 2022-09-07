@@ -1,5 +1,5 @@
 import Link from 'next/link'
-import Nav from "./nav"
+import Nav from "./Nav"
 
 function headerAfterLogin() {
     return (
