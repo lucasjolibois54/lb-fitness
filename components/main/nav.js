@@ -3,19 +3,21 @@ import React from 'react'
 function nav() {
   return (
     <>
-    <div className='h-screen w-screen bg-green-900'>
-        <div className='max-w-7xl mx-auto pt-36 text-center'>
-            <h3 className='text-3xl'>
-                Home
-            </h3>
-            <h3 className='text-3xl'>
-                about
-            </h3>
-            <h3 className='text-3xl'>
-                blog
-            </h3>
-        </div>
-    </div></>
+<div class="hamburger-menu">
+    <input id="menu__toggle" type="checkbox" />
+    <label class="menu__btn" for="menu__toggle">
+      <span></span>
+    </label>
+
+    <ul class="menu__box">
+      <li><a class="menu__item" href="#">Home</a></li>
+      <li><a class="menu__item" href="#">About</a></li>
+      <li><a class="menu__item" href="#">Team</a></li>
+      <li><a class="menu__item" href="#">Contact</a></li>
+      <li><a class="menu__item" href="#">Twitter</a></li>
+    </ul>
+  </div>
+</>
   )
 }
 
