@@ -19,6 +19,7 @@ body {
 
 .overscroll-on-text-over-x-axis{
   overflow-x: hidden;
+  overflow-y: hidden;
 }
 
 /* a {
