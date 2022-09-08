@@ -27,7 +27,7 @@ export default function HomeLoadingTest() {
             {isError ? (
                 <div style={{ color: "red" }}>Something went wrong</div>
             ) : (
-                <div>Data that you want to display</div>
+                <div>Data that I want to display</div>
             )}
         </div>
     );
