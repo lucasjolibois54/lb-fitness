@@ -16,7 +16,7 @@ function planHero() {
             src="https://res.cloudinary.com/dckwf6med/image/upload/v1661351404/Web%20Dev%20Projects/Group_76_6_mku7rr.png"
           />
           <img alt="Image"
-            className="bg sm:hidden h-screen w-screen"
+            className="bg sm:hidden h-auto w-screen"
             src="https://res.cloudinary.com/dckwf6med/image/upload/v1661354873/Web%20Dev%20Projects/Group_76_7_2_t6zbl9.webp"
           />
         </div>
