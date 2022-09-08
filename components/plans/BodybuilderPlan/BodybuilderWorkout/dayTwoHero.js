@@ -16,7 +16,7 @@ function dayOneHero() {
               src="https://res.cloudinary.com/dckwf6med/image/upload/v1661379051/Web%20Dev%20Projects/AnyConv.com__Group_82_1_1_yq6qq7.webp"
             />
             <img alt="Image"
-              className="bg sm:hidden h-screen w-screen"
+              className="bg sm:hidden h-auto w-screen"
               src="https://res.cloudinary.com/dckwf6med/image/upload/v1661379182/Web%20Dev%20Projects/AnyConv.com__vadim-paripa-MmrSaEJZs4s-unsplash_1_4_1_ua9gj6.webp"
             />
           </div>

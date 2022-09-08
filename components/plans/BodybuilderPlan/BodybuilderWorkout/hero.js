@@ -16,7 +16,7 @@ function hero() {
               src="https://res.cloudinary.com/dckwf6med/image/upload/v1661366992/Web%20Dev%20Projects/Group_79_3_1_xzlbpa.webp"
             />
             <img alt="Image"
-              className="bg sm:hidden h-screen w-screen"
+              className="bg sm:hidden h-auto w-screen"
               src="https://res.cloudinary.com/dckwf6med/image/upload/v1661367234/Web%20Dev%20Projects/Group_80_2_1_fx8dv8.webp"
             />
           </div>
