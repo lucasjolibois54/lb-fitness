@@ -1,5 +1,4 @@
 import { useEffect, useState } from "react";
-import "./styles.css";
 
 const LoadingComponent = () => <div>Loading...</div>;
 
