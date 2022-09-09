@@ -1,3 +1,5 @@
+//display element for a limited time
+
 import { useEffect, useState } from "react";
 
 const LoadingComponent = () => <div>Loading...</div>;
