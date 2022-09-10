@@ -29,6 +29,12 @@ function bodyBuilderDayThree() {
       image="https://res.cloudinary.com/dckwf6med/image/upload/v1661387878/Web%20Dev%20Projects/AnyConv.com__Rectangle_756_1_ciccf6.webp"
       sets="30s high speed, 30s-1m slow and repeat"
     />
+        <DayOneWorkout
+      name="#3 Stair Master"
+      description="The Stair Master is an amazing form of cardio. It's and an effective form of cardio workout that mainly targets the lower boddy. How you can decide the paster yourself, but try to keep it at least moderate. This will increase your cardiorespiratory fitness, build stronger and more toned muscles in your lower body."
+      image="https://res.cloudinary.com/dckwf6med/image/upload/v1662813709/Web%20Dev%20Projects/Rectangle_737_npurx1.webp"
+      sets="moderate paste for 25-45min"
+    />
     {/* <DayOneWorkout
       name="#3 Seated Row Machine"
       description="It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters."
