@@ -10,7 +10,7 @@ module.exports = {
       // => @media (min-width: 375px) { ... }
 
       'semixsm': '408px',
-      // => @media (min-width: 375px) { ... }
+      // => @media (min-width: 408px) { ... }
 
       'sm': '640px',
       // => @media (min-width: 640px) { ... }
