@@ -35,14 +35,26 @@ function bodyBuilderDayThree() {
       image="https://res.cloudinary.com/dckwf6med/image/upload/v1661384348/Web%20Dev%20Projects/AnyConv.com__Rectangle_752_1_jtlcc0.webp"
       sets="4 sets of 5-12 reps"
     />
+        <DayOneWorkout
+      name="#4 Straight bar lat pull down"
+      description="To do this exercise, grab the bar with a shoudler wide grip (don't go wider), looking forward with your torso upright. Retract your shoulder blades and pull the bar down in front of you to your upper chest. Squeeze your back muscles at the bottom of the move."
+      image="https://res.cloudinary.com/dckwf6med/image/upload/v1662810460/Web%20Dev%20Projects/Rectangle_735_1_jhskqm.png"
+      sets="4 sets of 5-12 reps"
+    />
+        <DayOneWorkout
+      name="#5 Barbell Row"
+      description="To perfom this, grab the bar, just wider than shoulder-width apart and let it hang with your arms straight. Then brace your core and squeeze your shoulders & back together to row the weight up until it touches your sternum, then slowly lower it back down again. Then repeat it all over again."
+      image="https://res.cloudinary.com/dckwf6med/image/upload/v1662809134/Web%20Dev%20Projects/Rectangle_735_sbqfjx.png"
+      sets="4 sets of 5-12 reps"
+    />
     <DayOneWorkout
-      name="#4 Reverse Dumbbell Fly"
+      name="#6 Reverse Dumbbell Fly"
       description="The reverse dumbbell fly is an amazing exercise to target the muscles in the upper back. It is done by leaning forwards, extending your arms on the side, and pull the weights backward while contracting the back. During a reverse flight, you work the rhomboid muscles in your upper back and shoulder region."
       image="https://res.cloudinary.com/dckwf6med/image/upload/v1661384843/Web%20Dev%20Projects/AnyConv.com__Rectangle_753_2_1_x1m5mn.webp"
       sets="4 sets of 5-12 reps"
     />
     <DayOneWorkout
-      name="#5 Laying Plate Pull Row"
+      name="#7 Laying Plate Pull Row"
       description="This exercise is an amazing exercise to target the muscles in the upper back as well as the lats. It is done by leaning forwards, grabbing the handles, and pulling the weights backward while contracting the back and lats."
       image="https://res.cloudinary.com/dckwf6med/image/upload/v1661386264/Web%20Dev%20Projects/AnyConv.com__Rectangle_754_2_lpvin1.webp"
       sets="5 sets of 5-12 reps"
@@ -56,31 +68,31 @@ function bodyBuilderDayThree() {
     </h2>
 
     <DayOneWorkout
-      name="#7 Cable Bar Curl"
+      name="#8 Cable Bar Curl"
       description="To perform this exercise, grab the bar with an underhand grip and extend your arms, stepping back. Next Engage your core and pull the bar up toward your shoulders using your biceps muscles, bending your arms at the elbow as you go."
       image="https://res.cloudinary.com/dckwf6med/image/upload/v1661382626/Web%20Dev%20Projects/AnyConv.com__Rectangle_748_1_xpd1g0.webp"
       sets="4 sets of 5-12 reps"
     />
     <DayOneWorkout
-      name="#8 Cable Rope Mixed Curl"
+      name="#9 Cable Rope Mixed Curl"
       description="To perform this exercise, stand with your knees slightly bent and feet planted firmly on the floor. Straighten your back, and keep your head steady. Curl the cable weight upward, toward the chest. Only the forearms move, rising up from the elbow."
       image="https://res.cloudinary.com/dckwf6med/image/upload/v1661382450/Web%20Dev%20Projects/AnyConv.com__Rectangle_747_3_1_pfvzhr.webp"
       sets="4 sets of 5-12 reps"
     />
         <DayOneWorkout
-      name="#8 Dumbbell Hammer Curl"
+      name="#10 Dumbbell Hammer Curl"
       description="The Dumbbell hammer curl is a strength training exercise that targets your long bicep muscle and forearms. The hammer curl varies from the traditional bicep curl by using a neutral grip with your palms facing each other during the full range of motion."
       image="https://res.cloudinary.com/dckwf6med/image/upload/v1661381095/Web%20Dev%20Projects/AnyConv.com__Rectangle_745_2_s45omk.webp"
       sets="3-4 sets of 5-12 reps"
     />
      <DayOneWorkout
-      name="#9 Forward EZ Bar Curl"
+      name="#11 Forward EZ Bar Curl"
       description="The EZ Curl is a multi-angled speciality barbell designed to work your biceps (and triceps) while reducing stress from your elbows and wrists. The W shape of the bar, gives you multiple grip options making it a versatile barbell."
       image="https://res.cloudinary.com/dckwf6med/image/upload/v1661381286/Web%20Dev%20Projects/AnyConv.com__Rectangle_746_1_qdi3nt.webp"
       sets="3-4 sets of 5-12 reps"
     />
     <DayOneWorkout
-      name="#10 Bicep Chin-ups"
+      name="#12 Bicep Chin-ups"
       description="The chin-ups is a popular strength training exercise for gymnasts. People frequently do this exercise with the intention of strengthening muscles such as the latissimus dorsi and biceps which makes it perfect for a pull day."
       image="https://res.cloudinary.com/dckwf6med/image/upload/v1661383254/Web%20Dev%20Projects/AnyConv.com__Rectangle_749_2_v19mou.webp"
       sets="2-4 sets of 5-12 reps"
