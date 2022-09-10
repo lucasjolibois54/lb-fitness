@@ -24,7 +24,7 @@ function bodyBuilderDayThree() {
       sets="30s run, 30s walk and repeat"
     />
     <DayOneWorkout
-      name="#2 Jump Rope"
+      name="#2 HIIT- Jump Rope"
       description="Jumping rope is an amazing form of cardio and HIIT. It's quick, affordable, and an effective workout. It will increase your cardiorespiratory fitness, build stronger bones and muscles, and improve your balance and coordination."
       image="https://res.cloudinary.com/dckwf6med/image/upload/v1661387878/Web%20Dev%20Projects/AnyConv.com__Rectangle_756_1_ciccf6.webp"
       sets="30s high speed, 30s-1m slow and repeat"
