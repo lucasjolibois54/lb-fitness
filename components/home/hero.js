@@ -1,6 +1,12 @@
 
+import Aos from "aos";
+import "aos/dist/aos.css";
+import { useEffect } from 'react';
 
 function hero() {
+    useEffect(() => {
+        Aos.init({ duration: 1000 });
+    }, []);
     return (
         <div className="p-0 sm:pt-10 flex flex-col w-full lg:flex-row mb-4">
 
@@ -13,11 +19,11 @@ function hero() {
                     {/* <!-- Grid cell #1 --> */}
                     <div className=" py-3 px-6 md-lg:ml-5 xl:ml-20 md-lg:mt-10 xl:mt-20 rounded">
 
-                        <h1 className="text-white mt-7 sm:mt-0 text-6xl xsm:text-7xl sm:text-6xl md-lg:text-7xl lg:text-8xl font-bold stroke-title">FITNESS <span className="stroke-removal"><br />TRAINING </span><br />PLAN</h1>
-                        <p className="text-base md:text-lg text-dark-text py-5 lg:px-24 lg:pl-0 lg:pr-20 max-w-2xl text-gray-400 mt-5">
+                        <h1 data-aos="fade-up" data-aos-delay="200"  className="text-white mt-7 sm:mt-0 text-6xl xsm:text-7xl sm:text-6xl md-lg:text-7xl lg:text-8xl font-bold stroke-title">FITNESS <span className="stroke-removal"><br />TRAINING </span><br />PLAN</h1>
+                        <p id="hero-p" data-aos="fade-up" data-aos-delay="350"  className="text-base md:text-lg text-dark-text py-5 lg:px-24 lg:pl-0 lg:pr-20 max-w-2xl text-gray-400 mt-5">
                         LB Fitness is the best free-to-use fitness platform in the industry. It contains workoutplans, diet plans, blogs ans so much more. Visit the about page or scroll down to learn more. Sign up today to get started!                        </p>
                         <div className="mt-4">
-                            <a href="#explore-the-home-page" className="text-pink py-2 px-10 rounded-full border-gray-stroke border-2 cursor-pointer">
+                            <a data-aos-anchor="#hero-p" data-aos="fade-up" data-aos-delay="450"  href="#explore-the-home-page" className="text-pink py-2 px-10 rounded-full border-gray-stroke border-2 cursor-pointer">
                                 Explore
                             </a></div>
                     </div>
@@ -25,7 +31,7 @@ function hero() {
 
                     {/* <!-- Grid cell #2 --> */}
                     <div className="py-3 float-right rounded">
-                        <img
+                        <img data-aos="fade-up" data-aos-delay="250" data-aos-duration="900" 
                             className="w-full  xl:w-6/6 float-right"
                             src={
                                 "https://res.cloudinary.com/dckwf6med/image/upload/v1661210903/Web%20Dev%20Projects/Hero-img_agt5ce.png"
