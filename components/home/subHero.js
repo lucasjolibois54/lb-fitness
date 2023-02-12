@@ -1,10 +1,16 @@
 
+import Aos from "aos";
+import "aos/dist/aos.css";
+import { useEffect } from 'react';
 
 function subHero() {
+    useEffect(() => {
+        Aos.init({ duration: 1000 });
+    }, []);
     return (
         <div className="flex items-center justify-center">
             <div id="explore-the-home-page" className="mb-20 lg:mb-0 sm:mt-16 max-w-7xl mx-auto">
-                <div className="sm:flex never:flex-col flex-row hidden">
+                <div data-aos="fade-up" data-aos-delay="100" data-aos-duration="900"  className="sm:flex never:flex-col flex-row hidden">
 
                     <p className=" text-xl lg:text-lg xl:text-xl font-light border-r-2 border-white lg:pr-10 xl:pr-20 hidden lg:block">
                         Our mission is to help you build <br />
@@ -33,7 +39,7 @@ function subHero() {
 
                 {/* mobile */}
 
-                <div className="sm:hidden">
+                <div data-aos="fade-up" data-aos-delay="100"  className="sm:hidden">
                     <div className="flex flex-col mt-0 sm:hidden items-center justify-center pb-5">
                         <img
                             className="w-20 pt-0"
@@ -78,7 +84,7 @@ function subHero() {
 
 
 
-                <div className="lg:flex mt-0 hidden">
+                <div data-aos="fade-up" data-aos-delay="100"  className="lg:flex mt-0 hidden">
                     <img
                         className="w-20 pt-5"
                         src={
