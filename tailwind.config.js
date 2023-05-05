@@ -57,6 +57,7 @@ module.exports = {
         'off-white': '#FCFCFC',
         'gradient-off-orange': '#FCD9C4',
         'footer-hover': '#D26385',
+        'main-dark-bg': '#0d0d0d',
       }
     },
   },
